@@ -1,6 +1,6 @@
-# Semeval 2019 Task 9 - SubTask 1 - Suggestion Mining from Online Reviews and Forums
+# Semeval 2019 Task 9 - SubTask A - Suggestion Mining from Online Reviews and Forums
 
-This repository contains the data as well as the scripts for SubTask 1 of the Semeval 2019 Task 9 competition. 
+This repository contains the data as well as the scripts for SubTask A of the Semeval 2019 Task 9 competition. 
 
 You can access the Codalab competition here: https://competitions.codalab.org/competitions/19955 
 
