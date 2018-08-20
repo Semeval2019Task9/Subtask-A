@@ -16,3 +16,9 @@ You can download or clone this repository to retrieve all required information.
 ### Prerequisites
 
 Python 2.7 is required to run the evaluation_script.py
+
+### License
+
+All resources provided in this repository are licensed under the Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license [1].
+
+[1] https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
