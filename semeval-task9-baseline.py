@@ -69,12 +69,18 @@ def classify(sent_list):
             if len(matches) > 0:
                 patt_matched = True
         keyword_match = any(elem in keywords for elem in tokenized_sent)
+        
+        
+        pos_match = any(elem in ['MD', 'VB'] for elem in tags)
+
     
 
         if patt_matched:
             label = 1
         elif keyword_match == True:
                 label = 1
+        elif pos_match == True:
+                label = 1    
      
 
         label_list.append(label)
