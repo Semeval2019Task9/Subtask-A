@@ -91,7 +91,7 @@ def classify(sent_list):
 
 #This reads CSV a given CSV and stores the data in a list
 def read_csv(data_path):
-    file_reader = csv.reader(open(data_path,"rt"), delimiter=',')
+    file_reader = csv.reader(open(data_path,"rt", errors="ignore",encoding="utf-8"), delimiter=',')
     sent_list = []
 
     for row in file_reader:
