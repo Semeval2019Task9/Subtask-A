@@ -11,7 +11,7 @@ Discussions and questions regarding this competition can be found here: https://
 You can download or clone this repository to retrieve all required information. 
 
 * Filename_Training.csv contains the training data.
-* Filename_Test.csv contains the test data which is required to evaluate your results on Codalab. It is structured in the three columns "id, sentence, prediction" whereby prediction is set as "X". Your task is to replace all X with the respective prediction for each sentence.
+* Filename_Test.csv contains the test data which is required to evaluate your results on Codalab. You can also use this dataset as the validation dataset for final submission. It is structured in the three columns "id, sentence, prediction" whereby prediction is set as "X". Your task is to replace all X with the respective prediction for each sentence.
 
 Please use the most recent versions for submissions.
 
