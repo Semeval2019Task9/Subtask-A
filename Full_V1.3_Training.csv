@@ -782,7 +782,7 @@
 873_1,"""If you shot a photo on native camera (Microsoft Camera) and see the photo on the app, it don't delete a photo when you pick ""delete"".""",0
 873_2,"""On Windows Phone 8.1, the store bug : when we open the store, applications list coudn't load.""",0
 873_3,"""The store is unusable.""",0
-874_1,"""windowsphone8.1_________________________________________________________________________________________________________________________________________________________8.1__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________Ǖ_______________________________________________________________________________________________________________________________________________________________________________________""",0
+874_1,"""windowsphone8.1____________î«_____________________________________________________________________________________________________________________________________________8.1__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________Ç_______________________________________________________________________________________________________________________________________________________________________________________""",0
 874_2,"""Allow apps to download data like pocket for offline viewing.""",1
 874_3,"""In some places it is a problem that children are playing with their phones while in a class.""",0
 874_4,"""There must be a way to handle this kind of problem, like statistics on how many times an app was started, or not being able to start applications other than some basic apps.""",0
@@ -1356,7 +1356,7 @@
 1367_4,"""Apps written for WP8 will not work on WP7.""",0
 1367_5,"""Ok, fine.""",0
 1367_6,"""However, in order to be able to support *both* platforms, we are going to want some extensions on the WP7 side in order to support WP8 features that are not available on the older platform.""",0
-1376_1,"""_________Marketplace___AppHub__________________________________________________________________________________________________________________ ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ____Ǖ______________________________________________________________________________________________________________________________App Hub___Marketplace___________________________________________________""",0
+1376_1,"""_________Marketplace___AppHub__________________________________________________________________________________________________________________ ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ ____Ç______________________________________________________________________________________________________________________________App Hub___Marketplace___________________________________________________""",0
 1377_1,"""Moreover, recently GeoTrust claimed us to cancel US registration (current one) and re-register as Russia.""",0
 1378_1,"""Indeed, we're discouraged and not happy...""",0
 1378_2,"""There is no default property or method of ListBox control which will give us the currently binded items on view or carousel control for WP7""",0
@@ -1559,7 +1559,7 @@
 1498_2,"""Change orientation of the device.""",1
 1498_3,"""Press ""delete"".""",0
 1498_4,"""The selected image will not be deleted.""",0
-1498_5,"""_____________________________________________________________________________________________________________________________________wp___""",0
+1498_5,"""____________________________________________________________________________î_________________________________________________________wp___""",0
 1498_6,"""When I type a text message and need to go back to a different app (to copy a phone number to paste into the text message for example), I lose what I have typed when I come back to the text message editor, which is very frustrating.""",0
 1500_1,"""Can this be possible on the phone.""",0
 1500_2,"""It will allow ""code anywhere anytime on windows"" idea.""",0
@@ -1675,7 +1675,7 @@
 1552_4,"""Then, it would be up to the app developer to allow that functionality.""",0
 1552_5,"""I have a specific app idea that won't work without this.""",0
 1552_6,"""Please feel free to contact me directly regarding this.""",0
-1552_7,"""Push Notification ________________________________________________________________________________________________________________________________________________________________________ Apple (iOS) _______________AppHub ________________________________________________ http://msdn.microsoft.com/en-us/library/ff941099(v=vs.92).aspx""",0
+1552_7,"""Push Notification _____________________________________________________________________î___________________________________________________________________________________________________ Apple (iOS) _______________AppHub ________________________________________________ http://msdn.microsoft.com/en-us/library/ff941099(v=vs.92).aspx""",0
 1552_8,"""BatterySaver controls are buried fairly deep in the Settings menu.""",0
 1553_1,"""I want to be able to turn it on/off from an app.""",1
 1553_2,"""I find that I want the batterysaver on most of the time, or my phone barely lasts a day without being plugged in.""",0
@@ -1691,8 +1691,8 @@
 1558_10,"""So long as the user must explicitally accept the use of teh app in the background, then why is it an issue.""",0
 1558_11,"""Users understand the additional strain this would potentially put on battery life, but by accepting they agree that it's okay.""",0
 1558_12,"""These are only my suggestions, there may be smarter ways to achieve this, but in the end, the current functionallity is pointless.""",0
-1558_14,"""1.____________________________________ 2.WiFi_______________________________WiFi________________ 3.__Ǖ___________________________________________________________""",0
-1565_1,"""________________________________________________________________________________________________________________Condensed_______________________________________________________________䉍_______________________________________Pivot__________________________________________________________________________________________________________________________________(Segoe)_________x-height___________________________________________________________________________________________________________________________________________""",0
+1558_14,"""1.____________________________________ 2.WiFi__î___________________________î__WiFi________________ 3.__Ç________î___________________________________________________""",0
+1565_1,"""________________________________________________________________________________________________________________Condensed_______________________________________________________________ä_______________________________________Pivot__________________________________________________________________________________________________________________________________(Segoe)_________x-height___________________________________________________________________________________________________________________________________________""",0
 1567_6,"""I can see two ways of accessing the barcode scan.""",0
 1567_7,"""From the search button as it is right now, user scans a bar code, sees the output of the search where he can tap on the icon of the decoded barcode and could be given the choice of an application who can use such information.""",0
 1567_8,"""The application would receive the decoded information and also, information about the barcode as the type etc...""",0
@@ -1739,7 +1739,7 @@
 1600_9,"""The process (particularly for someone under the age of 18) of getting a Dreamspark account (particularly now that you've messed up that website) and an App Hub account is absolutely awful.""",0
 1600_10,"""You're alienating your developers with this stuff and to be honest, it's just unacceptable.""",0
 1600_11,"""You shouldn't be charging $99 for service like this.""",1
-1607_4,"""_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________Ǖ________________________________________________________________________________________________________________________""",0
+1607_4,"""_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________Ç________________________________________________________________________________________________________________________""",0
 1607_8,"""ProtectedData ______________________________________________________ Triple DES ______________________________________________________________________________________________________ Product ID___________________________________________( Windows7 ______________________________________________________________) ______________________________Microsoft.Smartdevice.Connectivity __________________________________________________________________________________________ ProductID __________________________________________________________________________________________________________________________________ PC ______________________________________________________________________________ ____________ ProtectedData _________________________________________________________ _______________________________________ ProtectedData ______________________________________________________________________ OS ___________________________ ID __________________________________________""",0
 1607_15,"""_______________LAN_____________________________________________________________________________________________________________WiFi____________________________________________________________________Push_______________________________________________________ _______________________________________________________________________________________________________________________________________________________________________________________________""",0
 1607_20,"""contact information.""",0
@@ -1753,14 +1753,14 @@
 1634_3,"""Windows Phone__________________________________________________________________________________________________________Windows Phone_____________________________________________________________________________________________________________________________________________ ______Live ID_______________________________________________________________________________________________________________________________________________________________""",0
 1634_6,"""_______________________________________________________________________________________________________ ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ _______________________________________________________________________________""",0
 1635_8,"""_______________________________________________________________ WP7_____________________________________________________________________________________ ________________________________________________________________________________________________________________________________ _____________________________________________________________________________________________________________________________________________________________""",0
-1635_11,"""_________SkyDrive________________________Lice SDK (API)_______________________________________栕______OS________________________________________________________ _________OAuth____________________________________________________________________________________ (Live SDK Developer Preview_____________________) SkyDrive_________________________________Live API______________________________________________栕________________________________________________SDK___________________________________________________ ____________________OS_________________________栕_______________________________________________________________________________________________________栕_______________________________________________________________________________栕_______________________________________""",0
+1635_11,"""_________SkyDrive________________________Lice SDK (API)_______________________________________æ ______OS________________________________________________________ _________OAuth____________________________________________________________________________________ (Live SDK Developer Preview_____________________) SkyDrive_________________________________Live API______________________________________________æ ________________________________________________SDK___________________________________________________ ____________________OS_________________________æ _______________________________________________________________________________________________________æ _______________________________________________________________________________æ _______________________________________""",0
 1639_2,"""This could be implemented via WiFi, of course (since Zune does wireless Sync already), or even Bluetooth___ more""",0
 1643_1,"""________________________________________________________________________OS___________________________________________________ _________________________________________________________API______________________________________________________________________________________________________________________________________________________________""",0
 1643_2,"""quandp fai il copia di una frase,di solito quando si blocca si perde la memorizzazione,invece la proposta sarebbe di farlo memorizzare anche se il telefono viene bloccato.""",0
 1644_1,"""I wasted two hours on this code: <TextBlock Style=""PhoneTextLargeStyle"" Text=""{Binding Name}"" /> The emulator ended up with an unhandled error with a cryptic message.""",0
 1645_6,"""An native app that permit to open files in .rar and .zip formats.""",0
 1645_8,"""magic wand to remember login, getting tired of retyping my emailaddress and password on every login.""",0
-1645_9,"""_______________30_______________________________________栕___________________________________________________ ______栕___________________________________________________________________________________________________________________________________________________________________________________ _________10_____________________________________________________________________________""",0
+1645_9,"""_______________30_______________________________________æ ___________________________________________________ ______æ ___________________________________________________________________________________________________________________________________________________________________________________ _________10_____________________________________________________________________________""",0
 1645_10,"""I like the functinality of the SplashScreenImage.jpg file, but it's too limited for what I'm trying to do.""",0
 1645_11,"""At a minimum I need to have 2 images that are auto selected based on the phone's current theme.""",1
 1649_1,"""Sort of annoying to have to press attach three times to send three different pics.""",0
@@ -1826,7 +1826,7 @@
 1679_12,"""Please implement.""",1
 1679_13,"""Something like http://livetiles.co.uk/Beta/Default.html but from MS, perhaps a part of http://www.windowsphone.com/marketplace ?""",0
 1680_1,"""Disclaimer: the above link is my own site.""",0
-1681_1,"""___________ __________zune____________ ________________________ ____________ ________________________ ______________Ǖ______ ____________ __________________________ __________________________________ __________________________________ ___________________________________ ___________________________________________________ ______________________________ ____________________________________ _________________ ______________________________________________ ____________ ____________ _________""",0
+1681_1,"""___________ __________zune____________ ________________________ ____________ ________________________ ______________Ç______ ____________ __________________________ __________________________________ __________________________________ ___________________________________ ___________________________________________________ ______________________________ ____________________________________ _______î__________ ______________________________________________ ____________ ____________ _________""",0
 1682_1,"""Forwarding an existing message thats what i miss a lot.""",0
 1682_2,"""It would be very helpfull to have an abbility to copy a part of text out of a message.""",1
 1683_1,"""Sometimes i have to share parts of messages with others.""",0
@@ -1835,7 +1835,7 @@
 1685_2,"""If I upload an mp4 video recorded with filelink class, I cannot see them in the phone album, other video works..""",0
 1685_3,"""Being able to call a group of friends directly and start a conference without doing it manualy, one contact after another, using the new group feature in mango""",0
 1686_1,"""Hardware accellerated mp4 encoder library, to be able for us to develop professional video conf., broadcaster, streamer, video editing apps ( as ipad2...)""",0
-1686_2,"""________________________________________________________________________________________________________________________________________""",0
+1686_2,"""______________________________________________________________________________________î__________________________________________________""",0
 1687_1,"""Allow user to send Video, Audio and more pictures in an MMS now only one pic is supported""",1
 1687_2,"""full acess to xbox live on companion to rent movies interact with friends etc....""",0
 1687_3,"""Uf someone i know sends a mass sms or mms message and i am one of the recipients 1) It doesnt fall into that contact's conversation, it is separate, and i can see all the recipients.""",0
@@ -1933,7 +1933,7 @@
 1713_4,"""when there is a lot of names,numbers in the call log,a time filter will be great.a incoming,outgoing and missed calls filter is also needed.""",0
 1713_5,"""Filter in the ListBox is very important.""",0
 1713_6,"""It's impossible to select a value when the list contains a lot of items!""",0
-1713_7,"""Picture____________________________2___________________________________________________________________________________________________ 1_______________________________栕________________________________________________________________________________________________________________________________ __________________________________________________________________________________________________________________________________________________________________________________________________________""",0
+1713_7,"""Picture____________________________2___________________________________________________________________________________________________ 1_______________________________æ ________________________________________________________________________________________________________________________________ __________________________________________________________________________________________________________________________________________________________________________________________________________""",0
 1713_8,"""There is no option for hard and soft reset""",0
 1713_9,"""remove useless app or the app uses fake icon (e.g.""",1
 1713_10,"""all app made by Edutainment 4u)Those are rubbish!!""",0
@@ -1951,8 +1951,8 @@
 1714_1,"""For this I would like an user id (anonymous) so my data ""move"" to my other phones and delete from phones without logged in live account.""",1
 1714_2,"""There should be a random id instead after every reset.""",1
 1714_3,"""To become regionally recognized, I believe Windows Phone/Devices languages should be regionally supported""",1
-1714_4,"""iOS_____________________________________________________________________________________________________________________________________ ____________________________________________________________________________________________________________________________________________________________________________________________________Ǖ__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________""",0
-1715_1,"""__________Windows___________________________________________________________________________________________________APP______ ______ ___________________________HUB__________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___________________________________________________________________________________________________________________揕______________________________________________________________________________________________________________________ _________________________________________________________________________________________________""",0
+1714_4,"""iOS_____________________________________________________________________________________________________________________________________ ____________________________________________________________________________________________________________________________________________________________________________________________________Ç__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________""",0
+1715_1,"""__________Windows___________________________________________________________________________________________________APP______ ______ ___________________________HUB__________________________________________________________________________________________________________________________________________________________________________________________________________________î________ ___________________________________________________________________________________________________________________æ______________________________________________________________________________________________________________________ _________________________________________________________________________________________________""",0
 1715_2,"""what o.O""",0
 1715_3,"""Every time a microphone recording on HTC HD7 Windows Phone device is starting, a slight sound of ""bump"" is added to the recording stream.""",0
 1716_1,"""It is hard to hear since the sound of it is very low, but if the raw PCM stream is enhanced with WAV headers, so that the sound is Windows-playable, the bump turns out to be very noticeable.""",0
@@ -1970,7 +1970,7 @@
 1718_9,"""Recognition is very accurate, it should be easy to add two buttons for this.""",1
 1718_10,"""marketplace app needs predictive typing, not just app matching as you type.""",1
 1718_11,"""this would speed up searches.""",0
-1718_12,"""_____________________________栕__________________________________________________ __________________________________________________________""",0
+1718_12,"""_____________________________æ __________________________________________________ __________________________________________________________""",0
 1718_13,"""Microphone.IsHeadset property now always return true even without headset connected.""",0
 1719_1,"""It seems like not a good behaviour.""",0
 1719_2,"""This property should return correct information about connected headset.""",1
@@ -2046,7 +2046,7 @@
 1741_9,"""Allow the international developer to pay the Account Registration through PayPal or others ways, as the local Microsoft office.""",1
 1741_10,"""Not all have international credit card to make payment of $ 99.""",0
 1741_11,"""Hugs from Brazil.""",0
-1741_12,"""Xbox360_________________________________________________________________________________________________________WindowsPhone7__________________________________________________________________ ______________________________________________________________________________________________________________________________________ __________________________________________________________________________________________________________栕______________________________________________________________________________________________________""",0
+1741_12,"""Xbox360_________________________________________________________________________________________________________WindowsPhone7__________________________________________________________________ ______________________________________________________________________________________________________________________________________ __________________________________________________________________________________________________________æ ______________________________________________________________________________________________________""",0
 1741_13,"""While listening to new music, I want to be able to update/correct song metadata such as title, genre, album, and rating.""",0
 1742_1,"""That's RATING, not ""like/dislike"".""",0
 1742_2,"""Rating is an int variable, and I want to be able to specify an exact value.""",1
@@ -2062,7 +2062,7 @@
 1746_2,"""Windows Phone is an amazing media consumption device, and bringing audiobooks back into the Zune fold would make it that much better.""",0
 1746_3,"""_________________________________________________________________PC__________________Web___________________________Emulator__________________________________________________________________________""",0
 1746_4,"""__________________________________________________________________________________________________________________________________API____________________________________ __________________________________________________________________NG________________________________________________________________________________________________________________________________""",0
-1747_1,"""________________栕___________________________________________________________________________________________________________________________________________________________ HTC 7 Pro______________________________________________________________________________________________________________________""",0
+1747_1,"""________________æ ___________________________________________________________________________________________________________________________________________________________ HTC 7 Pro______________________________________________________________________________________________________________________""",0
 1748_1,"""_______________________________________API____________SaveRingtoneTask_______________________________________________________________API_________________________________________________________________________________________OS_________________________________________________________________________________Windows Phone_____________________________________________________________________________________________________________________________________________API__________________________________________""",0
 1748_2,"""Add API for access point configuration, so server could send needed data via push notification and application would create new corporate WLAN access point.""",1
 1748_3,"""____________________________________________________________________________________ _______________________________________________________________________________________ ___________________________________________________________________________""",0
@@ -2123,14 +2123,14 @@
 1762_1,"""_________________________________ON/OFF________________ _______________________________________________________________________________________________""",0
 1762_2,"""There should be an api enhancement to get access to the ""Me"" contact information (or a subset of it).""",1
 1762_3,"""I would especially like the name and the photo""",0
-1762_4,"""Silverlight/XNA________________________________________________________________ǉ___________________________________XNA________________________2.0________________________TextReadtoEnd_____________________________________________________________________________________________________________________________________________________""",0
+1762_4,"""Silverlight/XNA________________________________________________________________Ç___________________________________XNA________________________2.0________________________TextReadtoEnd_____________________________________________________________________________________________________________________________________________________""",0
 1762_5,"""S/MIME email is a mandatory requirement at my company and support for that on the Windows Phone platform is needed before we can consider it.""",0
 1763_1,"""______IME__________________________________________________________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________""",0
 1763_2,"""Local database support would be much more useful with the addition of full-text search support for quickly querying large amounts of text (e.g.""",0
 1764_1,"""dictionaries).""",0
 1764_2,"""Other implementations of SQL CE already support full-text indexes (i.e.""",0
 1764_3,"""through 'freetext'), and rival platforms such as Android and iOS can exploit SQLite's full-text support, so WP7 is currently at a disadvantage.""",0
-1764_4,"""______________________________________(WAV______)__________________________________________________________________________Ǖ______API_________________________________ ___________________________________________________________""",0
+1764_4,"""______________________________________(WAV______)__________________________________________________________________________Ç______API_________________________________ ___________________________________________________________""",0
 1764_5,"""Easy access to the Bing Music API would be really useful, especially for apps with artist/song recognition.""",1
 1765_1,"""Microsoft already allow developers to use the Bing Maps API in their API, so i realy hope they consider opening up the Bing APIs for the coming Tango/Apollo dev toolsets.""",1
 1765_2,"""Would be nice to have a callback on for example the phonecalltask so that we can determine wether or not the user actually did press ""call"" or ""cancel"".""",1
@@ -2160,7 +2160,7 @@
 1772_1,"""On Android and iPhone it's fine, I'm even take some volume down on Android as it's too loud.""",0
 1773_1,"""Can't really use my Omnia 7 untill volume update :( Media volume on Omnia 7 is fine, not as loud as I would prefer but good enough I can hear people hardly when calling mobile or landline but when calling international numbers it's just not possible to hear what people says.""",0
 1774_1,"""Can't really use my Omnia 7 untill volume update :( Media volume on Omnia 7 is fine, not as loud as I___ more""",0
-1775_1,"""Windows Phone SDK___Expression Blend_____Ǖ___________________________________________________________________(VS_____________________________________________) Expression Blend____________XAML___________________________________________________US__________________________________________________________________________________ ______________SDK________________________US_____________________________________________________________________________________________________________""",0
+1775_1,"""Windows Phone SDK___Expression Blend_____Ç___________________________________________________________________(VS_____________________________________________) Expression Blend____________XAML___________________________________________________US__________________________________________________________________________________ ______________SDK________________________US_____________________________________________________________________________________________________________""",0
 1776_1,"""__________________________________________________________________ _________________________________________________________________________________ ____________________________________________________________________________________ _______________________________________________________________________________________________ ____________________________________________________________________________________ ________________________________?""",0
 1776_2,"""Provide a viewer for viewing office documents (e.g.""",1
 1776_3,"""word, excel and powerpoint basically).""",0
@@ -5745,7 +5745,7 @@ Further, SPlitview should have option to display only the button in compact mode
 436,"""1) Take sample from here: https://github.com/Microsoft/Windows-iotcore-samples/tree/develop/Samples/SerialUART/CS""",1
 444,"""4) Run application and set breakpoint ReadAsync method after line""",1
 488,"""(If you are also using PInvoke.Kernel32.dll please install the nuget-package directly to the UWP-project automatic references added by other nuget-packages like PCLCrypto add an older version verify the version of PInvoke.Kernel32.dll in your bin/x86/Debug build output folder it should be at least 0.5.147.53150)""",1
-497,"""è Microsoft should give us the possibility to download created app packages for failed certification processes for further debugging.""",1
+497,"""Ã¨ Microsoft should give us the possibility to download created app packages for failed certification processes for further debugging.""",1
 509,"""Suggestion for Pathicon DataUri Property for loading PathIcon from a Svg File instead of specifying messy vector strings nobody really wanted to put this stuff (F1 M 1612 202L 2016 116) in their xaml.""",1
 512,"""Another possibility is to allow DataUri to point to a text file holding this type of stuff: F1 M 1612 202L 2016 116""",1
 515,"""Would be nice if you could drag your file from the Project Tree over to a Xaml property requiring an ms-appx:/// path and it would expand to an ms-appx:/// path instead of a fullpath to the file on your filesystem?""",1
@@ -5868,7 +5868,7 @@ Further, SPlitview should have option to display only the button in compact mode
 1262,"""Look the concept of UWP apps can run on your phone (RIP) and your Xbox while admirable isn't practical for most applications.""",1
 1266,"""Allow UWP applications to tick a box in the .appxmanifest declaring it as a full-trust desktop application.""",1
 1267,"""Prevent full-trust apps from targeting phone and Xbox if you have to.""",1
-1268,"""Show a notice to users upon install… more""",1
+1268,"""Show a notice to users upon installâ¦ more""",1
 1271,"""It would be nice to have an attached property for ScrollViewer to set middle click scrolling.""",1
 1289,"""Code would be useful in adapting to Bluetooth applications.""",1
 1299,"""Check the Create date on the file.""",1
@@ -5961,7 +5961,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2008,"""So come on all the APIs are already there :) Give Windows Ink a boost.""",1
 2010,"""Would be a lot more intuitive useful and less distractive then the current overlay.""",1
 2026,"""Please make sure the P/Invoke either points to a Windows API allowed in UWP applications or a native DLL that is part of the package.""",1
-2040,"""If for some reason your P/Invoke does not satisfy those requirements please use [DllImport(ExactSpelling=true) to indicate that you understand the implications… more""",1
+2040,"""If for some reason your P/Invoke does not satisfy those requirements please use [DllImport(ExactSpelling=true) to indicate that you understand the implicationsâ¦ more""",1
 2041,"""Move from OneDrive SDK to Microsoft Graph.""",1
 2042,"""Add MSAL support for v2 auth model.""",1
 2045,"""Could this not also be provided in the UWP toolkit for inclusion in UWP apps?""",1
@@ -5977,7 +5977,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2137,"""I would really like to switch to UWP for development however I'm not able to elevate users to install a UWP app that Win32 apps wouldn't have any problem just downloading from a network drive.""",1
 2176,"""And also in full screen I would expect transport controls to ignore safe area...""",1
 2183,"""Could Microsoft not add a padding reflecting the core window bounds to the full-screen window only instead of manipulating a grid by name?""",1
-2196,"""I want the transport controls' semi-transparent area… more""",1
+2196,"""I want the transport controls' semi-transparent areaâ¦ more""",1
 2208,"""Add Tumblr Service Too""",1
 2210,"""We could also be able to start tracking packages directly too.""",1
 2212,"""Consider a full screen application where you'd like to temporarily control that brightness.""",1
@@ -6110,7 +6110,7 @@ Further, SPlitview should have option to display only the button in compact mode
 107,"""There are design toolkits available for several designer programs at https://docs.microsoft.com/en-us/windows/uwp/design/downloads/index.""",0
 114,"""now it's readonly""",0
 119,"""Windbg Preview Available for Offline Downloads""",0
-123,"""When typing in the What's New text area a message Release notes can’t be more than 1500 characters with a red (X) glyph appears when you reach 1458 characters.""",0
+123,"""When typing in the What's New text area a message Release notes canât be more than 1500 characters with a red (X) glyph appears when you reach 1458 characters.""",0
 124,"""There is no actual error and submission completes.""",0
 127,"""Yellow exclamation?""",0
 128,"""one keychain( Bluetooth chip inserted in a keychain for Dynamic Lock to pair) included with software purchase and the option to purchase multiple key-chains for each user.""",0
@@ -6170,7 +6170,7 @@ Further, SPlitview should have option to display only the button in compact mode
 249,"""(find all service types) does not work.""",0
 253,"""I get no results when I try plugging _services._dns-sd._udp.""",0
 255,"""You can see this for the summary on this feature here or in the RFC.""",0
-257,"""For comparison I've… more""",0
+257,"""For comparison I'veâ¦ more""",0
 259,"""That was a very good build.""",0
 263,"""Template 10 has a Loading (Busy) page that has this functionality.""",0
 264,"""The existing color picker have a very long height.""",0
@@ -6259,23 +6259,23 @@ Further, SPlitview should have option to display only the button in compact mode
 449,"""The last three days I was working hard to solve a problem submitting our UWP app to the store.""",0
 450,"""Now I know why it was not working and I want to make my knowledge public.""",0
 453,"""We have an UWP app targeting Windows 10 fall creators update which was published successfully to the sore previously.""",0
-454,""" A new version fails the certification process with “10.4.2 App Crash or Freeze”""",0
+454,""" A new version fails the certification process with â10.4.2 App Crash or Freezeâ""",0
 456,"""Side loadable release builds are also starting and working on our build and test machines""",0
 458,"""(This package contains our code compiled with the native tool chain)""",0
-459,"""But the “.appxbundle” – package extracted from the *.appxupload (this is the zip-file uploaded to the store) fails at startup after it was side loaded on my test machine.""",0
-460,"""(for side loading you need to install the *.cer file contained in the AppPackages/AppName*version*_Test folder to your system cert store unter trusted roots) OK. Something must be wrong with the uploaded “.appxupload ” package.""",0
+459,"""But the â.appxbundleâ â package extracted from the *.appxupload (this is the zip-file uploaded to the store) fails at startup after it was side loaded on my test machine.""",0
+460,"""(for side loading you need to install the *.cer file contained in the AppPackages/AppName*version*_Test folder to your system cert store unter trusted roots) OK. Something must be wrong with the uploaded â.appxupload â package.""",0
 463,"""This package does always crash after side loading it.""",0
 464,"""So this crash is not the problem reported by the certification process!""",0
 465,"""Now things are very complicated:""",0
-466,"""- The uploaded “.appxupload” package contains the .NET dlls which are compiled via the native tool chain on the Microsoft certification server which generates a package which fails at startup.""",0
+466,"""- The uploaded â.appxuploadâ package contains the .NET dlls which are compiled via the native tool chain on the Microsoft certification server which generates a package which fails at startup.""",0
 468,"""Unfortunately there are no more details available from the certification process.""",0
 469,"""Also Microsoft support could not help me.""",0
 470,"""They build a package which fails without details and I can not download the build package for debugging.""",0
 474,"""Fortunately it does not try to start the build as part of the certification process.""",0
 475,"""So I was able to install the test flight package on my local machine for debugging.""",0
-478,"""Using some gflags and VS I was able to find that the entry point for “FormatMessage” was not found.""",0
-480,"""The problem here was that for some VS releases the “C:\Program Files (x86)\Windows Kits\10\App Certification Kit\SupportedAPIs-x?""",0
-481,"""?.xml” file contains some entry point definitions for FormatMessage which does not exist.""",0
+478,"""Using some gflags and VS I was able to find that the entry point for âFormatMessageâ was not found.""",0
+480,"""The problem here was that for some VS releases the âC:\Program Files (x86)\Windows Kits\10\App Certification Kit\SupportedAPIs-x?""",0
+481,"""?.xmlâ file contains some entry point definitions for FormatMessage which does not exist.""",0
 482,"""So the native tool chain compiles against the wrong entry point which causes the app crash at startup.""",0
 483,"""But why was it working on my local machine?""",0
 484,"""This is because I am using Visual Studio 15.7.1 which has already fixed the problem.""",0
@@ -6289,9 +6289,9 @@ Further, SPlitview should have option to display only the button in compact mode
 502,"""Now I know why it was not working and I want to make my knowledge public.""",0
 503,"""Maybe it will help someone.""",0
 505,"""We have an UWP app targeting Windows 10 fall creators update which was published successfully to the sore previously.""",0
-506,""" A new version fails the certification process with “10.4.2 App Crash or Freeze”""",0
+506,""" A new version fails the certification process with â10.4.2 App Crash or Freezeâ""",0
 507,"""Debug build of the app is starting and working on our developer machine""",0
-508,"""Side loadable release builds are also starting and working on our build and test… more""",0
+508,"""Side loadable release builds are also starting and working on our build and testâ¦ more""",0
 522,"""After a trial has expired the expiration date is set to:""",0
 531,"""Previously this is messy because it requires setting from C# code to measure height of font and multiply by number of lines to set textbox height from code.""",0
 532,"""My approach is 100% XAML and doesn't require messy calculations.""",0
@@ -6378,7 +6378,7 @@ Further, SPlitview should have option to display only the button in compact mode
 722,"""All with the same original and translated text for all languages!""",0
 723,"""It is pretty annoying having to duplicate lots or resources just becase the same command has now moved to a different control.""",0
 731,"""The problem is that all these controls have different properties for the text content:""",0
-733,"""It is pretty annoying having… more""",0
+733,"""It is pretty annoying havingâ¦ more""",0
 734,"""Currently you cannot create an Emitter unless you are using 48K Wave audio.""",0
 735,"""Back in DirectSound you could do L/R panning with any Wave sample-rate.""",0
 743,"""Normal mouses are working fine but 3D mouse such a SpaceNavigator from 3D Connexion is only able to zoom over RDC.""",0
@@ -6422,7 +6422,7 @@ Further, SPlitview should have option to display only the button in compact mode
 846,"""I have a Windows 10 notebook with a second screen.""",0
 847,"""And I have a problem with windows explorer that it breaks every time when I try to move from one screen to another.""",0
 849,"""How to emulate the bug""",0
-853,""" - Now with the mouse pointer click on the… more""",0
+853,""" - Now with the mouse pointer click on theâ¦ more""",0
 861,"""Compile using cl test.cpp /MD and run under RS4.""",0
 868,"""WebAuthenticationBroker is becoming obsolete as websites like GitHub are dropping support of the IE browser.""",0
 875,"""Each time I sit down the display setting for the external screen is to clone but I want it to be extended.""",0
@@ -6475,7 +6475,7 @@ Further, SPlitview should have option to display only the button in compact mode
 977,"""Issue: I developed a Desktop application saving files with different formats with the same file extension (using SaveFileDialog and FilterIndex) and currently UWP would not allow me to convert the application from Desktop without adding additional menu options or dialogs so the user can chose what he/she wants.""",0
 981,"""* Case (tested): When using FileSavePicker with UWP even if the application adds different choices with the same file extension then it is not possible to know which of those choices the user actually selected.""",0
 982,"""FileSavePicker just returns a StorageFile class for the file name and extension.""",0
-983,"""* Issue: I developed a Desktop application saving files with different formats with the same file extension (using SaveFileDialog and FilterIndex) and currently UWP would not allow me… more""",0
+983,"""* Issue: I developed a Desktop application saving files with different formats with the same file extension (using SaveFileDialog and FilterIndex) and currently UWP would not allow meâ¦ more""",0
 985,"""The other developers try to force customers to use their software for example M$ with Edge and Paint 3D.""",0
 986,"""M$ even tries to pay customers to use Bing & Edge.""",0
 987,"""This is the crezy idea:""",0
@@ -6541,7 +6541,7 @@ Further, SPlitview should have option to display only the button in compact mode
 1117,"""Hyper-V isolation has benefits but also has many drawbacks such as resource allocation performance as well as stability.""",0
 1118,"""A simple check of the Docker for Windows issues board ( https://github.com/docker/for-win/issues ) shows a large imbalance of Windows 10 and Hyper-V isolation related issued where the Windows Server 2016 issues are much less common.""",0
 1119,"""I have Docker build scripts that build 5 Docker images this script runs in 1 minute and 40 seconds on WIndows Server 2016 but takes 5 minutes and 30 seconds on Windows 10 and has rather frequent issues related to timeouts and hangs.""",0
-1124,"""I have Docker build scripts that build 5 Docker images this script runs in 1 minute and 40 seconds on WIndows Server 2016 but takes 5… more""",0
+1124,"""I have Docker build scripts that build 5 Docker images this script runs in 1 minute and 40 seconds on WIndows Server 2016 but takes 5â¦ more""",0
 1125,"""Hello I want to protect some user-mode code and read only data against other user-mode modification from a kernel-mode driver while allowing process handle creation.""",0
 1127,"""In my enterprise application basically a sales and purchase application.""",0
 1129,"""But in my case i want to print receipt and don't want to show the receipt in the screen and just pass the bitmap image of receipt to POS Printer.""",0
@@ -6577,7 +6577,7 @@ Further, SPlitview should have option to display only the button in compact mode
 1206,"""We are a dev house that specialises in publishing dedicated Xbox Apps.""",0
 1207,"""It used to be that there was a really high standard to get certified on Xbox which was tough to get through but at least the standard of apps was pretty high.""",0
 1208,"""Now it seems there is zero standard to be certified to publish an app on Xbox and by default EVERY windows 10 app that is published is published on all devices.""",0
-1209,"""I know microsoft is trying to flesh out the app stores on each device… more""",0
+1209,"""I know microsoft is trying to flesh out the app stores on each deviceâ¦ more""",0
 1210,"""Currently desktop bridge supports in app purchases.""",0
 1212,"""As of now there is no good ad network for existing desktop applications.""",0
 1213,"""This feature is almost available in any web based video player or any Desktop based video player the feature is simple.""",0
@@ -6654,7 +6654,7 @@ Further, SPlitview should have option to display only the button in compact mode
 1413,"""It requires admin rights to get a lock on the disk.""",0
 1428,"""Current clipboard API can notify about a clipboard content change which is fine.""",0
 1429,"""But getting or setting the content doesn't work if the app is in background or unfocused.""",0
-1435,"""If this is a privacy constraint then… more""",0
+1435,"""If this is a privacy constraint thenâ¦ more""",0
 1437,"""Currently the input will be validated if the focus of the Textbox lost.""",0
 1443,"""It is possible for us to get a D3DDevice from MediaStreamSource as indicated by admins here:""",0
 1445,"""I can verify that this works.""",0
@@ -6689,7 +6689,7 @@ Further, SPlitview should have option to display only the button in compact mode
 1523,"""When you invoke the primary or secondary buttons in a ContentDialog you are not losing focus in the control that was last being edited.""",0
 1524,"""If you are using x:Bind to bind that control's value to a property in the ContentDialog code-behind page then when you press the primary button the property doesn't get updated.""",0
 1526,"""Ive also tried Bindings.Update - bit this does not help either.""",0
-1527,"""The expected behaviour is that when you click on the Primary… more""",0
+1527,"""The expected behaviour is that when you click on the Primaryâ¦ more""",0
 1528,"""I can't register dev account because of living in Republic of Moldova.""",0
 1530,"""There are thousands of programmists here too.""",0
 1531,"""Currently there does not appear to be a way to set a window's startup position (left top width/right height/bottom) beyond full-screen and/or maximized.""",0
@@ -6781,7 +6781,7 @@ Further, SPlitview should have option to display only the button in compact mode
 1834,"""I have a UWP UserControl line chart that renders a PathFigure to a Canvas.""",0
 1835,"""This chart supports zooming and the PathFigure size is changed during zoom but clipped within the visible Chart area.""",0
 1838,"""There must be a bug some place in the framework.""",0
-1839,"""This crash only happens using the Fall Creators Update after the clipping… more""",0
+1839,"""This crash only happens using the Fall Creators Update after the clippingâ¦ more""",0
 1840,"""The following Hyper-V networking Configuration breaks DNS name resolution on the Virtual Machine:""",0
 1842,"""Connecting the host to a non-corporate (remote) WiFi network.""",0
 1847,"""When a VM is connected to the default switch and the host is connected to the corporate network via Cisco AnyConnect the VM looses the ability to resolve DNS addresses.""",0
@@ -6790,14 +6790,14 @@ Further, SPlitview should have option to display only the button in compact mode
 1850,"""Was advised by Premier that this is an architectural issue.""",0
 1851,"""The following Hyper-V networking Configuration breaks DNS name resolution on the Virtual Machine:""",0
 1858,"""When a VM is connected to the default switch and the host is connected to the corporate network via Cisco AnyConnect the VM looses the ability to resolve DNS addresses.""",0
-1859,"""The VM is able to ping both public addresses and corporate addresses; however it is unable to resolve names on either the public… more""",0
+1859,"""The VM is able to ping both public addresses and corporate addresses; however it is unable to resolve names on either the publicâ¦ more""",0
 1867,"""In stack overflow or any other forums we have option to add multiple tags related to our question.""",0
 1868,"""Currently is not possibile to create a new Calendar inside an Enterprise Exchange user account.""",0
 1869,"""It's only allowed to create an app calendar which lives on local device""",0
 1874,"""At the moment a VSTO add-in cannot be published on Windows Store or on Office Store.""",0
 1875,"""An idea could be extending Desktop App Converter tool in order to manage VSTO add-in.""",0
 1877,"""I reported that since studio 15.4.3 the designer crash due to attached properties""",0
-1893,"""However when using the result in a Drag+Drop or Clipboard operation Windows Explorer errors out with 0x80004002 No such interface supported”.""",0
+1893,"""However when using the result in a Drag+Drop or Clipboard operation Windows Explorer errors out with 0x80004002 No such interface supportedâ.""",0
 1894,"""It can be used between UWP apps but not in Windows Explorer which really is a shame.""",0
 1895,"""There are desktop Win32 APIs for delay creation of files that are used heavily e.g.""",0
 1896,"""in WinZIP and similar applications to delay actual unzip of files until really required but they cannot be used in UWP.""",0
@@ -6812,7 +6812,7 @@ Further, SPlitview should have option to display only the button in compact mode
 1936,"""does anybody at MS have an idea how to propose an path in an UWP application?""",0
 1937,"""Under UWP it is still not possible to open a folder or file out of the sandbox.""",0
 1941,"""and thereby... the folderpicker has no preview to the content in a folder.""",0
-1942,"""so this is now in 2017 after the great fall creators update still a ridiculous status of the great iniative: change to… more""",0
+1942,"""so this is now in 2017 after the great fall creators update still a ridiculous status of the great iniative: change toâ¦ more""",0
 1943,"""We'll currently I have a Uwp app that needs to call a web.api service that is secured with azure ad.""",0
 1944,"""I have been looking for samples and tutorials to do this and I have found some.""",0
 1945,"""But they all differ in what to do exactly.""",0
@@ -6833,7 +6833,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2000,"""This is on Windows 10 Fall Creators Update (build 16299.19) @ 150% DPI scale the app targets Windows 10 SDK 16299.""",0
 2009,"""Imagine writing text directly into the TextBox or RichEditBox canvas without the Ink-Keyboard-Overlay.""",0
 2011,"""Example: Open the Mail-App write the mail content with the pen directly on the (RichEditBox) canvas text gets recognised -> Boom done.""",0
-2013,"""The way ink Input is currently handled is sooo Win32 ;) I know there is InkCanvas and Windows.UI.Input.Inking.Analysis put this should be build into the text controls in a standard… more""",0
+2013,"""The way ink Input is currently handled is sooo Win32 ;) I know there is InkCanvas and Windows.UI.Input.Inking.Analysis put this should be build into the text controls in a standardâ¦ more""",0
 2014,"""Currently In MasterView we can only use ListView.""",0
 2015,"""It limits the use case of MasterView.""",0
 2016,"""We can't use Pivot Semantic Zoom GridView PullToRefresh SlidableListItem and more.""",0
@@ -6873,7 +6873,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2117,"""More details can be found in this issue""",0
 2119,"""We can see the support of communities in UWPCommunityToolkit.""",0
 2121,"""As a self-learner it is very hard to find a tutorial to learn new things.""",0
-2124,"""I hear a lot about “clean uninstall” but we noticed a few months ago appx leaves some stuff behind.""",0
+2124,"""I hear a lot about âclean uninstallâ but we noticed a few months ago appx leaves some stuff behind.""",0
 2125,"""Specifically persisted appframe window sizing data remains behind potentially leaving the user/dev in a potential bad or confusing window state.""",0
 2126,"""See the data piling up in the following stores:""",0
 2130,"""A lot of small time developers like myself don't have the means to use the Microsoft Store to host their apps.""",0
@@ -6881,7 +6881,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2133,"""Win32 apps still dominate because they're so robust and developed.""",0
 2136,"""I develop applications for the military and the IT department barely has any idea what they're doing.""",0
 2138,"""Win32 apps still dominate because they're so robust and developed.""",0
-2139,"""To bring in new and old developers bring back the same functionality that is found in WPF… more""",0
+2139,"""To bring in new and old developers bring back the same functionality that is found in WPFâ¦ more""",0
 2153,"""and not calling SetDesiredBounds!""",0
 2154,"""This is what the screen looks like: https://1drv.ms/i/s!AqT0PAFUIw04htwcFjitFI7iNTXl5A""",0
 2155,"""(sorry for the photo could not do a regular screen shot at the moment!)""",0
@@ -6925,14 +6925,14 @@ Further, SPlitview should have option to display only the button in compact mode
 2258,"""But it causes a context switch from native->.net and back for each item which will slow down the control when showing a lot of items (this is noticeable on slow devices or phones).""",0
 2261,"""Now the control does not need to call selector for every item speeding up the control.""",0
 2264,"""There are many cases where you have different kind of data and group them by data type.""",0
-2270,"""But it causes a context switch from native->.net and back for each item which… more""",0
+2270,"""But it causes a context switch from native->.net and back for each item whichâ¦ more""",0
 2272,"""Desktop Bridge attracts me as a developer but Windows Store puts me off.""",0
 2275,"""There are no keyword searches.""",0
 2277,"""This has been like that for many years but no one has done anything about it.""",0
 2281,"""There are many threads on Internet discussing this issue but Windows Store team doesn't seem to listen.""",0
 2284,"""Desktop Bridge attracts me as a developer but Windows Store puts me off.""",0
 2286,"""Currently the only way to find programs are if you type their names.""",0
-2289,"""This has been like that for many years but no… more""",0
+2289,"""This has been like that for many years but noâ¦ more""",0
 2292,"""Otherwise the private store can only be used for in-house apps or free apps.""",0
 2300,"""This crash occurs in all JavaScript apps that use the MediaCapture API to display camera Video previews.""",0
 2301,"""For this reason apps programmed in JavaScript that use Video or photo capturing are from now on non-functional in Windows 10.""",0
@@ -6960,14 +6960,14 @@ Further, SPlitview should have option to display only the button in compact mode
 2370,"""Let's assume I have 50 objects which are Soft Particles (SP)""",0
 2371,"""And 50 objects that are triangle meshes (TM)""",0
 2372,"""Both SP and TM use alpha blending.""",0
-2373,"""SP don't do depth writes but they do depth-tests… more""",0
+2373,"""SP don't do depth writes but they do depth-testsâ¦ more""",0
 2375,"""See GitHub issue for more information and scenarios (https://github.com/Microsoft/WindowsUIDevLabs/issues/239)""",0
 2377,"""it's extremely annoying when I face service issues with devcenter with no knowledge if they are investigated or not.""",0
 2378,"""I don't want all the time contact support wait wait wait and yeah we have issues or now is just Saturday...I've to wait til Monday?""",0
 2379,"""With service issue I mean devcenter backend is down or doesn't work properly in some ways.""",0
 2381,"""At least we're not totally in the dark in a limbo where we don't know if the issue is just a transient one or a serious one and we have to way days.""",0
 2385,"""With service issue I mean devcenter backend is down or doesn't work properly in some ways.""",0
-2387,"""At least we're not totally in the dark in a limbo where we don't know if the issue is just a transient one or… more""",0
+2387,"""At least we're not totally in the dark in a limbo where we don't know if the issue is just a transient one orâ¦ more""",0
 2390,"""MapControl crashing whole App with the following stacktrace:""",0
 2394,"""Some devices/apps do not have the ability of input (pairing/password).""",0
 2396,"""There is already an example we can reuse in UWP samples https://github.com/Microsoft/Windows-universal-samples/tree/master/Samples/XamlBottomUpList""",0
@@ -6982,7 +6982,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2425,"""Apple has such a form and on the few occasions that I've needed to use it they've generally completed a review in a few hours.""",0
 2427,"""I found a similar suggestion made back in 2011 which was closed when the certification expectation time was lowered to three days.""",0
 2432,"""I found a similar suggestion made back in 2011 which was closed when the certification expectation time was lowered to three days.""",0
-2433,"""Three days is not fast enough for… more""",0
+2433,"""Three days is not fast enough forâ¦ more""",0
 2435,"""I want to use this control TreeView from this link https://docs.microsoft.com/en-us/windows/uwp/controls-and-patterns/tree-view.""",0
 2436,"""Whenever i drag control from one treeview to another treeview it throws exception.""",0
 2437,"""How to use this control as drag and drop item between treeviews.""",0
@@ -7005,7 +7005,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2500,"""Behind the portal the user could control which microphones the Lumia would use to circumvent the bug affecting the Lumias 930 Brazilians.""",0
 2502,"""Apps that use the webview aren't able to login to Feedly.""",0
 2503,"""Using the Windows10SInstaller5932 when converting an Intune Managed Windows 10 Education device we are prompted during the initial configuration to set a PIN (Windows Hello) despite having this feature disabled via Intune policy.""",0
-2505,"""Hello， I had verified the Desktop Bridge Email several days ago  but now I has no reach out other email， I try to submission my converted app to store  but get errors like that :""",0
+2505,"""Helloï¼ I had verified the Desktop Bridge Email several days ago  but now I has no reach out other emailï¼ I try to submission my converted app to store  but get errors like that :""",0
 2506,"""Package acceptance validation error: You don't have permissions to specify the following namespaces in the appx manifest file of the package QYPlayer_1.1.0.0_x86.appx: http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities""",0
 2508,"""The DirectManipulationCompleted event of the ScrollViewer fires too late - it only gets called when the animation of the scrolling finishes.""",0
 2510,"""finger lifts up from screen).""",0
@@ -7023,7 +7023,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2537,"""I moved from Saudi Arabia to Egypt and I can't add my new bank account in Egypt because country in account is Saudi Arabia""",0
 2544,"""If it is not intended why then is it not called Windows CRT for Microsoft VC - what am I missing and is it really legal/appropriate?""",0
 2546,"""Apparently even the simplest C program will not be able to compile (as soon as you include any standard C header) because they all seem to end-up attempting to #include <vcruntime.h> (which is not part of the UCRT).""",0
-2551,"""If it is not intended why then is… more""",0
+2551,"""If it is not intended why then isâ¦ more""",0
 2558,"""The ComboBox now automatically has the infinite scrolling behavior when lots of items are present.""",0
 2559,"""This is confusing for users as they are seeing the same items multiple times.""",0
 2560,"""The ComboBox uses the CarouselPanel but this does not have the option to disable circular scrolling either.""",0
@@ -7033,7 +7033,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2584,"""As well as a RESW File Code Generator (Or RESX) and a tool like the MultiLingual Toolkit.""",0
 2587,"""They are very unfriendly to Machine Vision developers.""",0
 2588,"""NV12 and Gray8 are two basic formats but they don't be supported.""",0
-2589,"""When we get the pure image data without image file head info we don‘t want to chang the pure data.""",0
+2589,"""When we get the pure image data without image file head info we donât want to chang the pure data.""",0
 2591,"""will waste in performance.""",0
 2593,"""Reveal style AppBarButtonRevealStyle applied on an appbarbutton inside CommandBar whit property DefaultLabelPosition=Right not work in sdk 15232""",0
 2594,"""In UWP when a MenuFlyout control is placed within a CommandBar inside the Page.TopAppBar (or BottomAppBar) in Light theme the MenuFlyoutPresenter has the incorrect background color.""",0
@@ -7043,7 +7043,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2601,"""In UWP when a MenuFlyout control is placed within a CommandBar inside the Page.TopAppBar (or BottomAppBar) in Light theme the MenuFlyoutPresenter has the incorrect background color.""",0
 2603,"""The CommandBar in the Page body works as expected.""",0
 2604,"""The CommandBar in the Page.TopAppBar has a dark MenuFlyoutPresenter Background brush.""",0
-2605,"""A pseudo-fix is demonstrated with the third CommandBar in the BottomAppBar: if the CommandBar.RequestedTheme property is explicity set to Light the MenuFlyoutPresenter will have a grayish background that isn't ideal but makes… more""",0
+2605,"""A pseudo-fix is demonstrated with the third CommandBar in the BottomAppBar: if the CommandBar.RequestedTheme property is explicity set to Light the MenuFlyoutPresenter will have a grayish background that isn't ideal but makesâ¦ more""",0
 2606,"""When I set Center with property or with TrySetViewAsync map changes altitude based on height of the object below""",0
 2607,"""Example: Map is centered on ground I move it to building and altitude jumps to building's height""",0
 2608,"""I tried all of AltitudeReferenceSystem values and they all produce the same result""",0
@@ -7053,7 +7053,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2614,"""We are talking page load times of several minutes in many cases.""",0
 2616,"""The site is faster in Chrome and IE but still not fast and gives a poor user experience due to the lack of performance.""",0
 2620,"""We are talking page load times of several minutes in many cases.""",0
-2624,"""Currently it is at risk of giving the impression of being neglected… more""",0
+2624,"""Currently it is at risk of giving the impression of being neglectedâ¦ more""",0
 2626,"""I have an implementation that I'm more than happy to provide.""",0
 2627,"""I saw that ImageEx's fade animation doesn't allow developers to change duration and fixed to one second.""",0
 2630,"""The Acquisitions Funnel in the new Windows Developer Center dashboard is cool but the rectangular bars representing each stage of the funnel are incorrect.""",0
@@ -7083,7 +7083,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2714,"""For some notes on the investigation see https://github.com/Catel/Catel/issues/1066""",0
 2715,"""I *think* this is a bug in the way the UI components deal with the NotifyCollectionChangedEventArgs instance.""",0
 2718,"""I don't see this limitation documentated anywhere (but I might have missed it).""",0
-2727,"""We will only invoke the correct Add / Remove actions… more""",0
+2727,"""We will only invoke the correct Add / Remove actionsâ¦ more""",0
 2728,"""In 2017 .NET Native is still not mature and still has bugs.""",0
 2730,"""Interestingly Apps wrapped with Desktop Bridge do not have to use .NET Native.""",0
 2737,"""When using a company Store account with associated developer accounts its presently not possible for the developers to raise support issues for Store problems.""",0
@@ -7103,14 +7103,14 @@ Further, SPlitview should have option to display only the button in compact mode
 2775,"""It detects finguers.""",0
 2776,"""Im now developing a UWP app for multiuser registration using finguerprint.""",0
 2780,"""It was suppose to show afther this the Windows Hello Settings page for finguerprint detection( as is in the normal Windows 10 Windows Hello Settings page).""",0
-2781,"""Afther loged in user confirmation the dialog… more""",0
+2781,"""Afther loged in user confirmation the dialogâ¦ more""",0
 2784,"""Each number represents the shadow in each side.""",0
 2788,"""In 99 percent of cases I receive MeasureOverride exception or Error HRESULT E_FAIL has been returned from a call to a COM component.. No matter what the problem is you'll get that kind of useless information.""",0
 2789,"""Which means that something went wrong.""",0
 2790,"""No stacktrace and guess yourself is what WinRT development looks like.""",0
 2794,"""Initially if I have rtf text in first line and then after adding bullets to the same line the bullets does not appears in same color font and font family.""",0
 2795,"""If the device is connected to a network speech recognition with local SRGS custom grammar it behaves exactly as if it did not have the local grammar and starts to communicate to the websockets.platform.bing.com:443 endpoint increasing by tens of times the waiting-time for the result...""",0
-2796,"""But if the device is disconnected from any network then the waiting time between SpeechRecognizer StateChanged starts “SoundEnded” and the ResultGenerated event is invoked is very small less than 10ms!""",0
+2796,"""But if the device is disconnected from any network then the waiting time between SpeechRecognizer StateChanged starts âSoundEndedâ and the ResultGenerated event is invoked is very small less than 10ms!""",0
 2798,"""Even the official Microsoft UWP sample accuses the same problem:""",0
 2801,"""For large teams just having one team member being able to do this is a bad design decision.""",0
 2802,"""The API is fine but where I'm running into trouble is that things like Flyouts and Dialogs intercept any and all access to the event.""",0
@@ -7123,7 +7123,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2822,"""When the user will press button for next items then items will scroll and next set of items will appear on the screen.""",0
 2824,"""Example : Best example is the youtube homepage has this control where suggested videos from different channels are shown in single row.""",0
 2829,"""Only Horizontal Scrolling available because its one row only""",0
-2833,"""When the user will press button for next items then items will scroll and next set of items will appear on the… more""",0
+2833,"""When the user will press button for next items then items will scroll and next set of items will appear on theâ¦ more""",0
 2836,"""I haven't found any possible way to do that so I assume it doesn't exist currently.""",0
 2838,"""The SerialDevice implementation appears to be very unstable in general but doubly so when compiling as Native.""",0
 2839,"""The following will reliably throw some flavor of interop exception:""",0
@@ -7134,7 +7134,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2846,"""Not for any of the datetime controls anyway (DatePicker CalenderView etc.""",0
 2848,"""As of now it's only possible to set the CalenderIdentifier property to tell the control which calender to use.""",0
 2850,"""The Windows 10 Calender app show cases this feature with their calender when you set the alternative calender to Hijri a new setting shows up which is Hijri adjustment and it works nice.""",0
-2851,"""I don't know how they achieved this though because there is no known API in UWP for it… more""",0
+2851,"""I don't know how they achieved this though because there is no known API in UWP for itâ¦ more""",0
 2852,"""I am using a UK keyboard layout and keys such as \ do not work""",0
 2853,"""ApplicationView.SuppressSystemOverlays has been deprecated for a while and the warning message says use TryEnterFullScreenMode instead.""",0
 2854,"""However there's an important difference in behavior that has prevented is from switching.""",0
@@ -7149,7 +7149,7 @@ Further, SPlitview should have option to display only the button in compact mode
 2867,"""However there's an important difference in behavior that has prevented is from switching.""",0
 2869,"""When you use full screen mode StatusBar.ShowAsync doesn't work.""",0
 2870,"""To give you some context why this matters to us our app is a video streaming app with both VoD and live TV content.""",0
-2871,"""When the user starts video playback on a phone we use SuppressSystemOverlays to hide the navigation bar (on devices such as Lumia 950 that has them)… more""",0
+2871,"""When the user starts video playback on a phone we use SuppressSystemOverlays to hide the navigation bar (on devices such as Lumia 950 that has them)â¦ more""",0
 2872,"""It seems it's still not possible to submit Edge Extensions to the store.""",0
 2873,"""I think it's almost over a year.""",0
 2878,"""Currently the Win2D DirectionalBlurEffect is marked as [NoComposition] and can't be used with Composition APIs both in the Creator's Update and the new insider builds for the Fall Creator's Update.""",0
@@ -7218,7 +7218,7 @@ Further, SPlitview should have option to display only the button in compact mode
 3043,"""Also I've followed your links and it really sounds awfully complicated honestly I don't know where to start.""",0
 3046,"""For example: I drag and drop C:\Folder\image.bmp file onto my app window and my app will generate C:\Folder\image.png So what I need is a simple API like: void OnFilesDropped(String file_names[] int window_client_pos_x int window_client_pos_y) {..} where 'file_names' is an array of full path names of all files/folders drag and dropped onto the app and other 2 parameters are the XY coordinates of the client window position where the drag and drop occured.""",0
 3052,"""I don't want to use a File Picker or XAML.""",0
-3055,"""I handle rendering the entire interface with my… more""",0
+3055,"""I handle rendering the entire interface with myâ¦ more""",0
 3059,"""Mark R. for the win...tegration !!""",0
 3061,"""this is most like""",0
 3066,"""App Service is not real-time and not bi-direction""",0
@@ -7243,7 +7243,7 @@ Further, SPlitview should have option to display only the button in compact mode
 3096,"""Ways this could potentially be fixed:""",0
 3100,"""This would be really helpful when it comes to upcoming Fluent Design supporting new Fluent Design Styles and Supporting the Design Waves.""",0
 3103,"""Currently it is really painful to add new Controls from newer Windows SDK versions to apps and still support older versions.""",0
-3107,"""Like how Xamarin.Forms does it instead of… more""",0
+3107,"""Like how Xamarin.Forms does it instead ofâ¦ more""",0
 3110,"""I am especially interested in how this would work for my app to span different hardware types regardless of form factor or OS -- the idea of a seamless experience between Windows desktop and Android or iOS mobile is compelling... but I need to see some examples before I invest.""",0
 3112,"""I've read about Project Rome and the possibility of creating cross-device experiences (https://blogs.windows.com/buildingapps/2016/10/11/cross-device-experience-with-project-rome/) and am particularly interested in the Project Rome Android SDK (https://blogs.windows.com/buildingapps/2017/02/08/announcing-project-rome-android-sdk/#HQl7ibqTUGYzrufw.97).""",0
 3117,"""a) It is extremely slow.""",0
@@ -7262,11 +7262,11 @@ Further, SPlitview should have option to display only the button in compact mode
 3147,"""This is really a must for apps that target businesses or wish/must to support older devices that will not get the latest versions.""",0
 3149,"""uwp Media Element or MediaPlayerElement are fantastic with UI.But their codecs to play different kinds of audio and video files is very limited.""",0
 3151,"""Thankyou""",0
-3166,"""How can we ensure registration is complete for the COM server without adding regsvr32 command in post build and setting linker value for “Register Output” to false.""",0
+3166,"""How can we ensure registration is complete for the COM server without adding regsvr32 command in post build and setting linker value for âRegister Outputâ to false.""",0
 3168,"""We see an error CLASS_NOT_REGISTERED message.""",0
 3169,"""Saw the same issue with client app in PackagedComServer sample with those 2 settings changed.""",0
 3171,"""Link to the sample: https://github.com/Microsoft/DesktopBridgeToUWP-Samples/tree/master/Samples/PackagedComServer""",0
-3181,"""Now I can create an attached property and assume it is already false and set that to the default however if I would like to check beforehand if the… more""",0
+3181,"""Now I can create an attached property and assume it is already false and set that to the default however if I would like to check beforehand if theâ¦ more""",0
 3185,"""Microsoft IME and JustSystems ATOK work fine.""",0
 3187,"""Of course Win32 Apps and UWP Apps can use Goggle IME.""",0
 3190,"""It scanned my entire computer for certification (way outside the scope of building a UWP application).""",0
@@ -7327,7 +7327,7 @@ Further, SPlitview should have option to display only the button in compact mode
 3298,"""Users are asking me frequently for a XBox version of my app.""",0
 3299,"""Unfortunately I do not own a XBox nor would getting one make sense (it is a free app so I am not really interested in spending lots of money just for developing purpose.)""",0
 3301,"""It's just the same like with mobile.""",0
-3302,"""Here we have several emulators and I usually make use of them first instead of… more""",0
+3302,"""Here we have several emulators and I usually make use of them first instead ofâ¦ more""",0
 3303,"""In Windows 10 (Messages for example) there is a very nice control for entering/selecting contacts to send an email or text message etc to.""",0
 3305,"""The control would include a field for required ContactFieldTypes.""",0
 3307,"""The FileOpenPicker has the SuggestedStartLocation and the official description of how it works is:""",0
@@ -7366,7 +7366,7 @@ Further, SPlitview should have option to display only the button in compact mode
 3370,"""Future access list is great in theory but adds too much overhead.""",0
 3372,"""Not mentioning that some kind of apps need more than 1000 file access - why to give such a handicap for the whole platform?""",0
 3373,"""How UWP apps can compete with other systems with such things?""",0
-3375,"""BTW - seems that FutureAccessList sometimes has bugs and people are leaving platform and… more""",0
+3375,"""BTW - seems that FutureAccessList sometimes has bugs and people are leaving platform andâ¦ more""",0
 3376,"""Make DataTemplate behave like Xamarin.Forms DataTemplate class where you have 3 constructors:""",0
 3379,"""DataTemplate(Func<object>); // This one provides lot of flexibility""",0
 3380,"""The Windows Store analytics API is great.""",0
@@ -7379,7 +7379,7 @@ Further, SPlitview should have option to display only the button in compact mode
 3397,"""Now that the MarkdownTextBlock control supports fenced code blocks (```) in version 1.4 language-specific syntax highlighting *would* be the next step (e.g.""",0
 3399,"""But that would be beyond what the control *should* do in terms of separation of concerns.""",0
 3401,"""The function would get the original text and is expected to return either XAML objects or maybe a more abstract of representation of colored text which is then handled by the control.""",0
-3406,"""The function would get the original text and is expected to return either XAML objects or maybe a more abstract of representation of colored text which is then handled by… more""",0
+3406,"""The function would get the original text and is expected to return either XAML objects or maybe a more abstract of representation of colored text which is then handled byâ¦ more""",0
 3409,"""I'm talking about this website:""",0
 3411,"""The problem is it always provides the latest version only.""",0
 3414,"""This is really important not only for menus & toolbar buttons.""",0
@@ -7461,7 +7461,7 @@ Further, SPlitview should have option to display only the button in compact mode
 3565,"""I recently browsed the UWP docs and found some interesting APIs about Accessory Management etc.""",0
 3566,"""Since I developed an application which could massively profit from those APIs as they allow volume control etc I wanted to use them.""",0
 3567,"""Unfortunately for me I cannot use those APIs as they are restricted for use and getting access is only possible with a company developer account which I do not have.""",0
-3569,"""For me it is perfectly acceptable to request access to them so they are still under control but I do not want to create… more""",0
+3569,"""For me it is perfectly acceptable to request access to them so they are still under control but I do not want to createâ¦ more""",0
 3571,"""I have lost count of the number of times I've forgot to set it to OneWay.""",0
 3573,"""Yes I know why it isn't but looking at my code nearly every instance is set to OneWay or TwoWay anyway.""",0
 3576,"""On both the mobile and desktop versions of the Store app you can browse these categories.""",0
@@ -7471,7 +7471,7 @@ Further, SPlitview should have option to display only the button in compact mode
 3580,"""When you publish an app in Dev Center it allows you to select the category (and subcategory) for the app to be placed into.""",0
 3582,"""However this feature is not present in the Store app on the Xbox.""",0
 3583,"""Unless your app makes it into the Top Apps sections or Promoted apps then users can only download your app if they know about it and search for it by name themselves.""",0
-3584,"""If their app like mine is published solely to the Xbox then it makes it… more""",0
+3584,"""If their app like mine is published solely to the Xbox then it makes itâ¦ more""",0
 3588,"""If you have no more disk space; the install crashed.""",0
 3590,"""The combination of toasts and Action Center provide a convenient lightweight way to communication with users but after notifications are read they disappear.""",0
 3592,"""I'm currently working on a clock control for my UWP todo-list app 2Day (www.2day-app.com).""",0
@@ -7479,18 +7479,18 @@ Further, SPlitview should have option to display only the button in compact mode
 3594,"""The very early work in progress version is available on my repo: https://github.com/japf/uwp-material-clock""",0
 3597,"""In UWP we have a CommandBar but it seems it's not easy to use to build a classic toolbar for a desktop application.""",0
 3601,"""But as this is such a central control it should be part of the platform.""",0
-3603,"""I’ve spent some hours to build a small MVVM/UWP/Pivot Prototype that does the typical stuff we do today in WPF with TabControl.""",0
+3603,"""Iâve spent some hours to build a small MVVM/UWP/Pivot Prototype that does the typical stuff we do today in WPF with TabControl.""",0
 3604,"""And I was impressed how far I got.""",0
 3611,""" ** Currently the Pivot has no overflow-panel.""",0
-3612,"""It’s also not wrapping the headers.""",0
-3614,"""I didn’t find the option.""",0
+3612,"""Itâs also not wrapping the headers.""",0
+3614,"""I didnât find the option.""",0
 3616,"""I created a separate uservoice entry)""",0
-3617,"""* Styling of content (I was not able to get rid of that entrance-animation (“slide in from the left”-animation/-transition))""",0
+3617,"""* Styling of content (I was not able to get rid of that entrance-animation (âslide in from the leftâ-animation/-transition))""",0
 3618,"""* allow for no overflow""",0
 3619,"""* allow for no wrapping""",0
-3624,"""I’ve spent some hours to build a small MVVM/UWP/Pivot Prototype that does the typical stuff we do today in WPF with TabControl.""",0
+3624,"""Iâve spent some hours to build a small MVVM/UWP/Pivot Prototype that does the typical stuff we do today in WPF with TabControl.""",0
 3625,"""And I was impressed how far I got.""",0
-3628,"""Big asks are asks are … more""",0
+3628,"""Big asks are asks are â¦ more""",0
 3629,"""You're building on a TreeView-control as your backlog on https://developer.microsoft.com/en-us/windows/platform shows.""",0
 3630,"""I'm using the TreeView of your official samples on https://github.com/Microsoft/Windows-universal-samples/tree/dev/Samples/XamlTreeView.""",0
 3631,"""The point that I really miss when working with hierarchical data is the HierarchicalDataTemplate like we have it today in WPF.""",0
@@ -7570,9 +7570,9 @@ Further, SPlitview should have option to display only the button in compact mode
 3847,"""One click to close the first menu and a second click to open the new one.""",0
 3849,"""At the moment there is no possibility to quickly navigate through long lists on small screens.""",0
 3851,"""But sometimes lists are not in alphabetic order or there are still thousands of entries starting with the same letter.""",0
-3852,"""I don’t know what the component should look like.""",0
+3852,"""I donât know what the component should look like.""",0
 3855,"""If the list is alphabetic there is at least the possibility to jump to the first entry with the same first letter.""",0
-3857,"""I don’t know what the component should look like.""",0
+3857,"""I donât know what the component should look like.""",0
 3859,"""I want to test my apps in multiple languages without changing the region of my entire device.""",0
 3869,"""I'm developing a Windows Universal App and I'm sicked and tired of finding a way to implement encrypted local DB support.""",0
 3870,"""(I already have a database file encrypted by SQL Cipher and I just have to read the records)""",0
@@ -7585,7 +7585,7 @@ Further, SPlitview should have option to display only the button in compact mode
 3882,"""I know SQLite support Universal App Development through Nuget in VS2015""",0
 3883,"""But SQLCipher is not - it supports only commercial edition ($899) and I can't afford the expense.""",0
 3885,"""Surprisingly NO ONE OF THEM supports Universal App implementation.""",0
-3886,"""That's ridiculous and I'm sick and tired… more""",0
+3886,"""That's ridiculous and I'm sick and tiredâ¦ more""",0
 3887,"""Basic scenario is the need to store set of secret API keys for various 3-rd party APIs (twitter for example).""",0
 3895,"""Basic scenario is the need to store set of secret API keys for various 3-rd party APIs (twitter for example).""",0
 3896,"""Just to hardcode API keys inside app executable files is security risk as it can be reverse engeneered.""",0
@@ -7613,13 +7613,13 @@ Further, SPlitview should have option to display only the button in compact mode
 3975,"""It also creates a large hurdle for new users and causes a number of headaches.""",0
 3976,"""The issue is that our software uses ui access to emulate an onscreen touchpad and custom gestures.""",0
 3977,"""We also allow for simultaneous pen and touch to add touch keyboard hotkeys to a docked custom keyboard (typically aids in drawing and ink based applications)""",0
-3978,"""our question is would converting our app to use newer windows ink code (forgive my lack of knowledge here) and if… more""",0
+3978,"""our question is would converting our app to use newer windows ink code (forgive my lack of knowledge here) and ifâ¦ more""",0
 3980,"""Here are some more things I would appreciate:""",0
 3982,"""- the scaling of the website sometimes doesn't work.""",0
 3985,"""- I don't know if it is only me but I can't kill a running process but i can stop a running app""",0
 3988,"""execution on every restart.""",0
 3990,"""text and parts of graphs are not wisible because it disappears below.""",0
-3992,"""- I don't know if it is only me but I can't… more""",0
+3992,"""- I don't know if it is only me but I can'tâ¦ more""",0
 3996,"""Currently SmartCard API doesn't have any method to force a reader to reset smartcard (Cold Reset or Warm Reset as described in ISO7816-3).""",0
 3997,"""It is important as fallback mechanism when the smart card is not responding.""",0
 4001,"""This is really way too long in UWP Xaml not addressed.""",0
@@ -7634,17 +7634,17 @@ Further, SPlitview should have option to display only the button in compact mode
 4018,""" When the user pressed the access key of a button to navigate out the tooltips of command bar buttons stay where they are.""",0
 4022,"""If a URL is required then either I have to use something like OneDrive which I think looks a bit unprofessional or I have to create a web page which requires hosting etc and either way it creates an extra separate thing for me to have to manage and remember.""",0
 4025,"""If a URL is required then either I have to use something like OneDrive which I think looks a bit unprofessional or I have to create a web page which requires hosting etc and either way it creates an extra separate thing for me to have to manage and remember.""",0
-4026,"""I would prefer it if everything to do… more""",0
+4026,"""I would prefer it if everything to doâ¦ more""",0
 4027,"""When using Windows.Media.Transcoding.MediaTranscoder to transcode ALAC file to something else it reports CodecNotFound.""",0
 4028,"""However ALAC decoding is supported according to this page https://msdn.microsoft.com/en-us/windows/uwp/audio-video-camera/supported-codecs#desktop .""",0
 4029,"""More interestingly transcoding other files to ALAC works fine.""",0
 4033,"""PrivateObject and PrivateType are missing in Microsoft.VisualStudio.TestPlatform.UnitTestFramework""",0
 4034,"""On this page there is explanation how to make a file explorer integration on a desktop bridge app:""",0
-4037,"""I’m working on porting an app that could calculate MD5 checksums on a file.""",0
+4037,"""Iâm working on porting an app that could calculate MD5 checksums on a file.""",0
 4038,"""I want to add this as a context menu option on for instance zip and iso-files.""",0
 4041,"""Also there is no way to having different verbs on different file types which could be quite limiting.""",0
 4043,"""On this page there is explanation how to make a file explorer integration on a desktop bridge app:""",0
-4048,"""But it’s not possible to do this without making a file type association as I get it :(.… more""",0
+4048,"""But itâs not possible to do this without making a file type association as I get it :(.â¦ more""",0
 4049,"""We have a uwp in the store and a desktop companion app.""",0
 4050,"""Currently to install our software (and have it function) both programs are needed.""",0
 4053,"""The issue we run into is that our desktop app uses ui access.""",0
@@ -7710,14 +7710,14 @@ Further, SPlitview should have option to display only the button in compact mode
 4172,"""I'm using the result of MidiOutPort::GetDeviceSelector() for the device selector string.""",0
 4173,"""The DeviceInformation for some of the virtual software ports on the system are returning with generic device names.""",0
 4174,"""A user of yMidi contacted me about this problem.""",0
-4175,"""He’s using loopMidi a virtual MIDI loopback from Tobias Erichsen.""",0
+4175,"""Heâs using loopMidi a virtual MIDI loopback from Tobias Erichsen.""",0
 4179,"""Have you seen this behavior before?""",0
-4180,"""I’m using the property DeviceInformation::Name in my application to display the port name.""",0
+4180,"""Iâm using the property DeviceInformation::Name in my application to display the port name.""",0
 4182,"""Using DeviceInformation::FindAllAsync in my C++/CX application to enumerate existing MIDI ports on the system.""",0
 4183,"""I'm using the result of MidiOutPort::GetDeviceSelector() for the device selector string.""",0
 4184,"""The DeviceInformation for some of the virtual software ports on the system are returning with generic device names.""",0
 4185,"""A user of yMidi contacted me about this problem.""",0
-4186,"""He’s using loopMidi a virtual MIDI loopback from Tobias Erichsen.""",0
+4186,"""Heâs using loopMidi a virtual MIDI loopback from Tobias Erichsen.""",0
 4190,"""We just switched to Win10 SDK 10.0.14393.0 and are now getting some new warnings in .cpp files with #include <Windows.h>""",0
 4191,"""Warning 4668 is an extra one we have enabled beyond warning level 4.""",0
 4193,"""We just switched to Win10 SDK 10.0.14393.0 and are now getting some new warnings in .cpp files with #include <Windows.h>""",0
@@ -7728,7 +7728,7 @@ Further, SPlitview should have option to display only the button in compact mode
 4207,"""This gave the MasterDetailsView the time it needed to subscribe to the event first in order to handle it.""",0
 4208,"""In other projects/frameworks like Template 10 this is not as easily handled because those frameworks have a navigation service that subscribes to the BackRequested event first.""",0
 4210,"""Currently a control will not be able to handle the request if the event has already been subscribed to in order to handle navigation.""",0
-4212,"""The only work around I found for the sample app was to unsubscribe from the event in the shell when the frame has navigated and then subscribe to the event again in the… more""",0
+4212,"""The only work around I found for the sample app was to unsubscribe from the event in the shell when the frame has navigated and then subscribe to the event again in theâ¦ more""",0
 4214,"""But I mostly care about Windows Phone.""",0
 4215,"""I can see the tasks but I can't terminate them""",0
 4218,"""I know you have tweaked alarm volume in Insider builds but you simply cannot cover all user need if you don't provide them the slider.""",0
@@ -7740,7 +7740,7 @@ Further, SPlitview should have option to display only the button in compact mode
 4234,"""IBM layout) the VirtualKey information is correct.""",0
 4236,"""Apparently the UIElement.KeyUp and UIElement.KeyDown events provide the wrong VirtualKey information in the KeyRoutedEventArgs.""",0
 4237,"""The problem is when using a physical keyboard and also when using the On-Screen-Keyboard.""",0
-4239,"""It's also a total annoyance when working with data that require handling of lots… more""",0
+4239,"""It's also a total annoyance when working with data that require handling of lotsâ¦ more""",0
 4242,"""We're limited at work since we can't use our mobile devices the way we want...""",0
 4243,"""Right now WinAppDriver only works on desktop.""",0
 4247,"""Before our users find them.""",0
@@ -7787,7 +7787,7 @@ Further, SPlitview should have option to display only the button in compact mode
 4342,"""Most probably the problem is in these two lines:""",0
 4344,"""I looked through the GUID-named folder and found no SHARED folder inside.""",0
 4346,"""The dac folder exists but under output not under shared.""",0
-4347,"""And the dac folder… more""",0
+4347,"""And the dac folderâ¦ more""",0
 4348,"""Dear Dev Team!""",0
 4356,"""Wifi and bluetooth work well but the mobileBroadband is in This value is defined for future use and is not currently available.""",0
 4358,"""Thank you""",0
@@ -7809,7 +7809,7 @@ Further, SPlitview should have option to display only the button in compact mode
 4393,"""Tried to post in UWP apps but questions remain unanswered.""",0
 4397,"""Support for developers willing to get the apps converted and placed in the Windows store is below anecdotal.""",0
 4399,"""Like thousands of other developers I have tried for now over a month to convert my app and followed every literatureput up by Microsoft but am still stuck with dependencies.""",0
-4401,"""For such a strategic move where the Windows Store could remain indigent as during the painful Windows 8.x era if nothing is done please make sure developers do not remain in the… more""",0
+4401,"""For such a strategic move where the Windows Store could remain indigent as during the painful Windows 8.x era if nothing is done please make sure developers do not remain in theâ¦ more""",0
 4403,"""I was working with WebView to display static HTML and I found an issue.""",0
 4405,"""The <li><table> tags are displayed very small in size.""",0
 4407,"""I was working with WebView to display static HTML and I found an issue.""",0
@@ -7821,7 +7821,7 @@ Further, SPlitview should have option to display only the button in compact mode
 4416,"""The WNS currently does not seem to support loc-key loc-args APNS equivalents.""",0
 4418,"""As a result all of the notification strings have to be generated server-side iterating for all the languages supported by the client (like https://azure.microsoft.com/en-us/documentation/articles/notification-hubs-ios-xplat-localized-apns-push-notification/) .""",0
 4419,"""This causes us to treat the windows platform as a special case while APNS / GCM provide a single cohesive story.""",0
-4420,"""This gets even more painful when we work with client-application teams… more""",0
+4420,"""This gets even more painful when we work with client-application teamsâ¦ more""",0
 4423,"""Currently the xaml engine of UWP does not manage complex control attributes since it does not take System.ComponentModel.TypeConverter into account.""",0
 4424,"""That is why we can not write this simple xaml user code:""",0
 4425,"""where the complex property is Begin and the complex value is 12 that represents a position {X=1 ; Y=2}.""",0
@@ -7848,22 +7848,22 @@ Further, SPlitview should have option to display only the button in compact mode
 4487,"""When this issue specified test features.""",0
 4489,"""then can't show apps list so I selected an appx package.""",0
 4490,"""To choose what test features is it right?""",0
-4492,"""I have a question related… more""",0
+4492,"""I have a question relatedâ¦ more""",0
 4493,"""I need to select multiple files to be downloaded/uploaded one time""",0
 4495,"""I also want to create folders to store things in.""",0
 4496,"""Seriously while we see a LOT of improvement of ASP.Net/Razor languages and even the C# language reducing a LOT of verbosity in each version with a lot of awesome new features XAML got what in the last years?""",0
 4498,"""Seriously to be honest we LOSE a lot of features with transition of WPF -> UWP... DockPanels Adorners etc...""",0
 4503,"""In Windows Store the longer app's titles or capitalized app's titles for example COBATA (X)HTML Constructor are cut to 14-15 characters doing the app's title meaningless for example COBATA (X)HTML.""",0
 4504,"""It is because the responsible HTML element c-heading class font-size style property is fixed to 15px.""",0
-4516,"""How this could work… more""",0
+4516,"""How this could workâ¦ more""",0
 4517,"""When there is a bulk update requirement as with the age ratings (and soon to be with the Ad support changes) the store is poorly equipped to server those of us that are managing large portfolios and millions of users.""",0
 4519,"""Right now I have to manage this myself.""",0
-4520,"""The current status only seems to show ‘In Progress’ if the app has never been put in the store before.""",0
+4520,"""The current status only seems to show âIn Progressâ if the app has never been put in the store before.""",0
 4521,"""I have lots of apps that are just now showing that they have passed certification days after simply doing the Age Rating update.""",0
 4523,"""When there is a bulk update requirement as with the age ratings (and soon to be with the Ad support changes) the store is poorly equipped to server those of us that are managing large portfolios and millions of users.""",0
 4525,"""Right now I have to manage this myself.""",0
-4526,"""The current status only seems to show ‘In Progress’ if the app has never been put in the store before.""",0
-4527,"""I have lots of apps that are just now showing that they… more""",0
+4526,"""The current status only seems to show âIn Progressâ if the app has never been put in the store before.""",0
+4527,"""I have lots of apps that are just now showing that theyâ¦ more""",0
 4528,"""Right now RichEditBox only supports input and output in RTF format.""",0
 4530,"""HTTP.sys serves as the kernel component backing IIS and the .NET HttpListener.""",0
 4532,"""There are a number of failure cases such as a high incoming request rate filling the request queue that can result in the module rejecting incoming requests directly without handing them off to callers higher on the stack.""",0
@@ -7873,7 +7873,7 @@ Further, SPlitview should have option to display only the button in compact mode
 4541,"""As such it plays a critical role as the first system to process each incoming HTTP request but it is unfortunately lacking in diagnostics.""",0
 4542,"""There are a number of failure cases such as a high incoming request rate filling the request queue that can result in the module rejecting incoming requests directly without handing them off to callers higher on the stack.""",0
 4543,"""This leaves the application unaware that it it experiencing such problems.""",0
-4544,"""Information about these failed requests is currently only visible via the HTTPERR log file and… more""",0
+4544,"""Information about these failed requests is currently only visible via the HTTPERR log file andâ¦ more""",0
 4546,"""And the RelativeTime it seems not correct sometimes the Duration is larger than RelativeTime.""",0
 4547,"""Sometimes the previous frame's RelativeTime is 00:00:01.500 but the next frame's RelativeTime is 00:00:01.300.""",0
 4548,"""I'm confused what the **** is that?""",0
@@ -7994,7 +7994,7 @@ Further, SPlitview should have option to display only the button in compact mode
 3814,"""Provide more rich API for text rendering without need to use low-level Direct2D for rich text rendering capabilities.""",1
 3829,"""I'd also be happy if MapTileSource property changes (like Bounds) were applied to the map without need to remove the tile source and add it back (this is how it can be done currently).""",1
 3842,"""(Compare the UI usage with Google Chrome for example.)""",1
-3858,"""Maybe by default the way it looks now but it should have a slider that is magnified if the user taps close to edge of the list and signals its intention to use… more""",1
+3858,"""Maybe by default the way it looks now but it should have a slider that is magnified if the user taps close to edge of the list and signals its intention to useâ¦ more""",1
 3888,"""Just to hardcode API keys inside app executable files is security risk as it can be reverse engeneered.""",1
 3889,"""There is should be a way to include secure data (as strings or byte[]) remotely at dev center as app setting.""",1
 3894,"""There is should be way to revoke secure data on server which would require re-publishing app with new set of keys and app with revoked keys should fail on access to secure storage.""",1
@@ -8041,8 +8041,8 @@ Further, SPlitview should have option to display only the button in compact mode
 4241,"""Please add full LDAP-Support (Query Read Write).""",1
 4245,"""Making it possible for us to write tests and code once and have it being tested in an autonomous way.""",1
 4251,"""Provide libraries to help me get started with Project Rome and building a cross-device experience for my application""",1
-4252,"""Enable Linux devices to be included in a user’s device graph - to enable discovery launching of apps and communication between connected devices""",1
-4253,"""Enable iOS devices to be included in a user’s device graph - to enable discovery launching of apps and communication between connected devices""",1
+4252,"""Enable Linux devices to be included in a userâs device graph - to enable discovery launching of apps and communication between connected devices""",1
+4253,"""Enable iOS devices to be included in a userâs device graph - to enable discovery launching of apps and communication between connected devices""",1
 4254,"""I would like to be able to have screenshots for each and every action for a WinAppDriver like I had with CodedUI via UITestActionLog.html see https://msdn.microsoft.com/en-us/library/jj159363.aspx for what I am looking for.""",1
 4255,"""It would be very useful if you allow external devices (e.g through Bluetooth) to control the running audio/video on the phone.""",1
 4264,"""Please allow to set the display language of MapControl to one different from Windows display language.""",1
@@ -8194,7 +8194,7 @@ Further, SPlitview should have option to display only the button in compact mode
 3724,"""Add system tray support so that app can be minimised to system tray.""",1
 3729,"""Allow other formats than PCM and float for a FrameOutputNode created with CreateFrameOutputNode of class AudioGraph.""",1
 3730,"""Other Formats like MP3 or OGG would be nice.""",1
-3752,"""The control is the equivalent of a pivot table in excel� you simply add the datasets with labels and the control sorts out all the selection fields� visualizations and animations.""",0
+3752,"""The control is the equivalent of a pivot table in excelÊ you simply add the datasets with labels and the control sorts out all the selection fieldsÊ visualizations and animations.""",0
 3775,"""To solve that it would be enough to have read access to the System Media Transport Controls data of other apps.""",1
 3784,"""Please expose Undo/Redo functions on the TextBox control so that we can trigger it programatically.""",1
 3787,"""It could be interesting to provide a control to generate and show a Power BI chart inside a UWP application easily with a Control or by code.""",1
@@ -8291,8 +8291,8 @@ Further, SPlitview should have option to display only the button in compact mode
 5119,"""It would be great to have the ability to hide all apps/categories in with Windows Store and only have it show the Private App store.""",1
 5130,"""It would be very useful to add this feature into Hosted Web Apps so that native textboxes in a web application can inherit this capability when converted into a Hosted Web App.""",1
 5133,"""For example if in the msi/ appx is added folder like Samples or Projects it cannot be found by the open/ save dialogs with set Initial Directory opened by the installed executable even if the folder is installed in the installed executable's folder.""",0
-5138,"""The new Notification access is awesome but is it possible to add Overlay UI and� Services� ( you will find it under accessibility settings in Android) to RS2.""",1
-5147,"""It will make UWP more powerful like win32 and also let dev make some powerful and useful apps like� Universal Copy� and 'Native Clipboard .""",0
+5138,"""The new Notification access is awesome but is it possible to add Overlay UI andÊ ServicesÊ ( you will find it under accessibility settings in Android) to RS2.""",1
+5147,"""It will make UWP more powerful like win32 and also let dev make some powerful and useful apps likeÊ Universal CopyÊ and 'Native Clipboard .""",0
 5151,"""I really want the Universal Apps to grow more powerful.""",0
 5157,"""There should be an option if the busness store settings that if checked will send the updated app to the New LOB apps section under manage apps.""",1
 5179,"""I wish that garbage collection was optional for C# UWP apps.""",1
@@ -8303,7 +8303,7 @@ Further, SPlitview should have option to display only the button in compact mode
 5250,"""My suggestion is that Microsoft create an Cordova AdControl and Mediation plugin.""",1
 5312,"""We frequently need to automate tests that run as different test users so that we can test workflow etc.""",0
 5365,"""Allow the developer to query Windows 10 Store with RESTfull API service.""",1
-5375,"""Would be nice to have a market place where you can buy sample starters� themes and plugins from independent developers.""",1
+5375,"""Would be nice to have a market place where you can buy sample startersÊ themes and plugins from independent developers.""",1
 5379,"""Now that Microsoft has bought Xamarin integrated it in Visual Studio and made it free it would be awesome to replace Xamarin.Forms Xaml syntax with current UWP so that Devs can benefit from all the new rich features such as RelativePanel x:Bind Adaptive Triggers Live Visual Tree etc and also no learning curve for Xamarin.Forms-specific naming conventions (e.g StackLayout instead of StackPanel)""",1
 5380,"""I'd like to see support for having winappdriver log to a local file as well as support for setting log levels.""",1
 5381,"""Would be nice to have a market place of beautifully designed apps submitted by independent developers.""",1
@@ -8338,7 +8338,7 @@ Further, SPlitview should have option to display only the button in compact mode
 6207,"""Please make support for setting set AutomationId on CoreWindows and MessageDialog!""",1
 6221,"""Ads should start displaying in an app on the day it is published so the developer can generate revenue immediately.""",1
 6245,"""I have a ton of sites saved in my IE Favorites....it would be great to have a search box for the favorites rather than scrolling around.""",1
-6293,"""Another even better option instead of adding the edit extensibility would be adding an ""open with�"" option in the built-in photos app.""",1
+6293,"""Another even better option instead of adding the edit extensibility would be adding an ""open withÉ"" option in the built-in photos app.""",1
 6338,"""UWP really needs a way to handle master-details situations easily maybe something like UISplitViewController offered in iOS SDK""",1
 6352,"""on the taskbar setting in the item hide taskbar wish I could ask for the task bar appears only when the CTRL button is pressed and so when I use windows and want the bar to appear as well as position the mouse where she is hides the CTRL button must be pressed""",1
 6370,"""This can give an app the false impression of being able to modify a non-app calendar (until a Save is attempted and fails with unauthorized exception).""",0
