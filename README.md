@@ -15,8 +15,6 @@ You can download or clone this repository to retrieve all required information.
 * Filename_Trial_Test.csv contains the trial test data which is required to trial test your results on Codalab. You can also use this dataset as the validation dataset for your final submission, when a new test dataset would be provided. It is structured in the three columns "id, sentence, prediction" whereby prediction is set as "X". Your task is to replace all X with the respective prediction for each sentence.
 DO NOT add any additional row, like the header row, to the prediction file. 
 
-Please use the most recent versions for submissions.
-
 ### Prerequisites
 
 Python 2.7 is required to run the evaluation_script.py
