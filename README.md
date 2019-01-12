@@ -12,8 +12,11 @@ You can download or clone this repository to retrieve all required information.
 
 * Filename_Training.csv contains the training data. Please use the most recent versions for final submissions.
 
-* Filename_Trial_Test.csv contains the trial test data which is required to trial test your results on Codalab. You can also use this dataset as the validation dataset for your final submission, when a new test dataset would be provided. It is structured in the three columns "id, sentence, prediction" whereby prediction is set as "X". Your task is to replace all X with the respective prediction for each sentence.
-DO NOT add any additional row, like the header row, to the prediction file. 
+* Filename_Trial_Test.csv contains the trial test data which is required to trial test your results on Codalab. You can also use this dataset as the validation dataset for your final submission, when a new test dataset would be provided. It is structured in three columns "id, sentence, prediction" whereby prediction is set as "X". Your task is to replace all X with the respective prediction for each sentence. DO NOT add any additional row, like the header row, to the prediction file. 
+Prediction file should be named as 'submission.csv', zipped and named as submission.csv.zip, and uploaded on CodaLab.
+
+* SubtaskA_EvaluationData.csv contains the final evaluation data. Similar to the trial phase, it is structured in three columns <id>, <sentence>, <prediction> whereby prediction values are set as "X". Your task is to replace all Xs with the respective prediction for each sentence. DO NOT add any additional row, like the header row, to the prediction file. 
+Prediction file should be named as 'submission.csv', zipped and named as submission.csv.zip, and uploaded on CodaLab.
 
 ### Prerequisites
 
