@@ -38,7 +38,7 @@ def build_dicts(v1,v2):
 
 	for gold in v1:	
 		for inputeval in v2:
-			if int(gold) == int(inputeval):
+			if gold == inputeval:
 				golddicttemp.append(int(v1[gold]))
 				inputdicttemp.append(int(v2[inputeval]))
 				
@@ -64,12 +64,12 @@ with open(filename) as data_file:
 	Goldstandard = csv.reader(data_file, delimiter=',')
 	for gold in Goldstandard:
 		if len(gold[0]) > 0 and len(gold[2]) > 0:
-			golddict[int(gold[0])] = int(gold[2])
+			golddict[gold[0]] = int(gold[2])
 with open(inputfilename) as data_file2:    
 	Input = csv.reader(data_file2, delimiter=',')
 	for inputt in Input:
 		if len(inputt[0]) > 0 and len(inputt[2]) > 0:
-			inputdict[int(inputt[0])] = int(inputt[2])
+			inputdict[inputt[0]] = int(inputt[2])
 
 
 
