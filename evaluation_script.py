@@ -57,6 +57,7 @@ inputdict = {}
 #Place the goldstandard.csv and the submission.csv in the same folder as this evaluation script
 #The structure of submission.csv has to be: "id, sentence, prediction" with prediction in [0,1]
 inputfilename = "submission.csv"
+filename = "goldstandard.csv"
 
 
 with open(filename) as data_file:    
