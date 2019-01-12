@@ -1,0 +1,987 @@
+9553,"One small adjustment.... allow phone calls to be made as an option and this can be used as an enterprise kiosk environment.",X
+9566,"This would enable live traffic aware apps.",X
+9569,"Please try other formatting like bold italics shadow to distinguish titles/subtitles from content.",X
+9576,"Since computers were invented to save time I suggest we be allowed to upload them all in one zip file - using numbering for the file names and the portal could place them in the right order.",X
+9577,"Allow rearranging if the user wants to change them!",X
+9579,"Add SIMD instructions for better use of ARM NEON instructions for math and games.",X
+9580,"Also using a hot swapping code generator (optimized machine code like HotSpot in Java does) would also be very helpful to mitigate slow C# code.",X
+9587,"Microsoft should seriously look into getting rid of Symantec for all these payment stuff.",X
+9599,"I would be extremely useful in a variety of app types to be notified upon call started and ended events at least be able to check whether or not the device is being used for a phonecall.",X
+9600,"Fix Altitude Bug in GeoCoordinateWatcher and Geolocator when using in WP8.",X
+9624,"It would be good to know not only the number of downloads but also how many are active still.",X
+9626,"I would like to see informatin about the certification process in the dev center app.",X
+9628,"It would be nice to see at a glance if an app is featured in one of the markets .",X
+9630,"Also I would be fun to have a record showing the featured markets and dates.",X
+9636,"Make ProgressRing control available for Windows Phone just like Win8.",X
+9644,"The problem is that Windows Phone 8 seems to have an artificial limit of 4 KB for how large of an NFC tag it can read.",X
+9657,"It would be great if the OS moved on to the second third etc NFC record and tried to trigger off of them until there was a success.",X
+9660,"We need for our applications on each of the mobile platforms to be able to read data on a separate NDEF records contained in an NDEF message.",X
+9663,"You could test NDEF message compositions not possible with standard static tags and hopefully we could improve Windows Phone 8 NFC support.",X
+9670,"Provide Process Class/APIs (like that for regular Windows) to develop lower level operations like Task Manager in Windows",X
+9671,"Make the IsLocked property of the Pivot control in WP8 bindable as a dependency property.",X
+9672,"Make the logic of the MapsDirectionTask equal from the one used within the Bing search.",X
+9679,"Since WP7 does not support in-app purchases I have implemented separate XAP that contains a bunch of these items and this version should be a paid app.",X
+9682,"To overcome this I would need to make totally different app for WP7 with different GUID.",X
+9686,"Please add the possibility the set price (& market distribution) and trial mode existence individually for the XAPs.",X
+9694,"Photo chooser should also allow us to customize the photo chooser task like the one in Photos Hub.",X
+9695,"The photo chooser task needs to support selecting multiple pictures feature and add an app bar to it.",X
+9702,"Add the ability to do memory profiling on background agent (periodic) as they are limited on memory and sometimes its too hard to catch memory leaks.",X
+9706,"Either one has to use .NET to access a library or Microsoft advises to do a .NET app with native code in a WinRT component.",X
+9709,"Don't limit us artifically just because you don't like native developers.",X
+9715,"Please expose the ID property for Contacts and Appointments.",X
+9718,"Please take this into consideration and make the ID public (maybe with a new capability requirement).",X
+9721,"Give us the option to set reminder tones for these.",X
+9724,"It would be great if we could link to an app's store page with a campaign code and get the breakdown by campaign codes in our daily stats.",X
+9735,"These page templates should be updated to use the medium-sized semibold font by default for the title text.",X
+9740,"This change would encourage consistency with both the apps built-in to the OS and within an app itself.",X
+9750,"Task-based operations would make the code much more clean and readable.",X
+9751,"I suggest having an option like (UnPin) on any live tile to (Update) it.",X
+9752,"With feature user can run background service to update live tile when he need which can help developers to give instant feedback on live tile when user request.",X
+9754,"Add a boolean to CameraCaptureTask to indicate whether you want it to save the picture taken to be saved to the camera roll.",X
+9755,"Please expose ETW logging namespaces like System.Diagnostics.Eventing so that it is possible to log events from the windows 8 app.",X
+9756,"Currently the only way to take advantage of the direct manipulation in a XAML Windows store app is by using a ScrollViewer.",X
+9770,"It would be great if the part of the application ISO store could be made visible in the Windows File Explorer when the phone is connected by the USB cable.",X
+9773,"It does not make a sense when the large (multimedia) files have to be transferred (You first have to transfer them up to Skydrive and then - download to phone).",X
+9782,"I have lots of ideas and prefinished apps but I hold the dev.",X
+9794,"Instead of having a top charts style listing where the most popular apps are displayed to every phone anywhere create a new form of distribution where the results are randomized every time a user looks at the marketplace.",X
+9796,"Highly rated apps should appear near the top more and they should appear less and less frequently and the rating of the app dwindles.",X
+9799,"It seems to me that all good apps/games should have a chance at decent exposure in the top charts and waiting to be featured just isn't worth it.",X
+9801,"Instead of ten featured games per day which all users see it would be better for each user to see a random set of games each time the marketplace is viewed.",X
+9812,"Please implement style triggers for Windows Phone XAML (BAML?).",X
+9814,"Implement a Credentials Locker of credentials providing secure storage of passwords and keys for one or more users.",X
+9819,"Maybe you should think about some way to reward those users who take their time to actually try an app and review it.",X
+9826,"A developer should have the possibility to write his own complete implementation of background audio player or the built-in one should at least provide the possibility of gapless playback or changing audio title/album without pausing playback.",X
+9829,"It would be great to be able to use the WP8 emulator (and Surface emulator for that matter) for mobility demonstrations i.e. when I deliver a Dynamics CRM demo I often (nearly always) want to include mobility scenarios on the same screen as the rest of the demo.",X
+9848,"Please make an option like windows phone 8 to mark several messages at the time of deletion... As tapping and holding of every message and deleting take more time and it makes angry ....",X
+9852,"Because WVGA and WXGA are the same aspect ratio and because the website is a giant PITA in uploading images you have to take and submit 3 screenshots per actual screenshot per language.",X
+9861,"It would be nice to schedule a reminder to repeat at X hours",X
+9864,"We need a way to save videos to the camera roll.",X
+9873,"It will even allow seamless migration to new hardware.",X
+9892,"I understand the reasoning for not allowing the user to have access to the Mailboxes in the phone but there should be an API to enumerate through accounts and get their statistics like the number of unread emails number of important emails and the total e-mail count.",X
+9896,"If I have an app that shows a filtered subset of a user's contacts I should have a way to click on that user and show the user's details in the native experience.",X
+9900,"I am familiar with the suggestion to take the contact's details and re-create them in your own UI... which would be great if the API exposed all of the user's details (like the Anniversary) which it does not.",X
+9903,"Please make sure that any data accessible from the Contact Details page is made available to the Contact class.",X
+9907,"Market it more as a visual assistant.",X
+9915,"Allow us to query device information from a 100% native C++ application so we are not forced to use C#.",X
+9926,"I would like to ask Microsoft to give us a tool(option in emulator) with which we can take screenshots once in one emulator and it will produce screenshots in all resolutions and all languages supported by our app.",X
+9929,"You have to run one emulator take screenshots close it and run another and so on.",X
+9955,"To add a route to the map you have to create MapRoute object that accepts only Route object in it's constructor.",X
+9957,"The only possibility to create Route is RouteQuery class.",X
+9967,"MapRoute constructor should accept IRoutePath inteface instead of Route class.",X
+9978,"SharpDX proves that those key technologies can be made available to CSharp: I would suggest to either support the project or to provide your own interface.",X
+9980,"It would be more natural to allow the physical search key to activate the search function on the active application rather than loading Bing which is rarely the goal.",X
+9994,"Associate bound objects to data templates implicitly by type instead of explicitly by template name.",X
+10007,"For more information see Data Binding.",X
+10014,"It would be extremely helpful if the emulator could use webcams as camera emulation.",X
+10026,"Allow platform built-in camera and video apps to use increase and decrease volume hardware keys for picture optical and digital zoom of camera.",X
+10027,"On WP8 add optional support to hook these hardware keys press events for the lens (plug-in) features...hardware keys should include vol+ vol- stage 1 (light press) camera shutter stage 2 (deep press) camera shutter.",X
+10028,"When an application has problems or when a problem is detected in advance by the developer until the publication of the correction version the client is without knowing what is happening, it would be possible for Microsoft to implement a communications resource developer for customers who have installed its application?",X
+10063,"If we need to target corporates then then we would need more APIs for device management also like Zune (for a single user) we would need an Enterprise Server Application which can control the devices (of employees) remotely where we can apply corporate policies on the device as well.",X
+10064,"Having native access to OpenCL or C++ AMP support would be nice to have especially with the newer hardware arriving with WP8.",X
+10070,"Entend Network framework to allow developers to use Ping and tracert like network utilities when developing Enterprise applications on Windows Phone",X
+10071,"Developers must be given additional enumeration values in Socketype and ProtocolType to create variety of sockets like raw sockets based on ICMP IGMP... etc.",X
+10072,"Provide a single link to retrieve all the applications by a specific Publisher like the Android Market.",X
+10138,"Currently we have to download and configure the silverlight toolkit to get certain UI elements that should really be integrated with the platform.",X
+10156,"My boss is not a developer and has no development tools but absolutely needs to see the progress of development in a timely manner.",X
+10159,"There needs to be an Alpha Test mechanism available.",X
+10168,"Read/write accsess to email sync settings could enable applications to create custom sync profiles (based on week-days time position etc).",X
+10171,"It would be nice to be allowed to get basic information about these accounts.",X
+10181,"It'd be great if we at least has the ability to change/edit reminders and alarms that were created by that app.",X
+10203,"It s impossible to connect easily to ftp network I suggest to include it in the future sdk.",X
+10204,"I hope Microsoft can open Asia voice function fastest",X
+10208,"Create option to allow Periodic Agents to run even if app has not been opened for x days.",X
+10212,"We need support special multitasking tasks like VOIP and IM!",X
+10221,"Allowing for tester groups or profiles would allow for efficient test setup in the Marketplace especially for multiple products by allowing a group to be assigned to the app as it is entered in the Marketplace as a beta.",X
+10222,"Additionally it would be great to have additional support for Enterprise developers that target a specific set of clients as opposed to the public masses of the Marketplace.",X
+10238,"It would be ideal to allow apps to expose certain bits of data or functionality to other apps to provide a complementary experience in terms of reuse of information or performing similar tasks.",X
+10239,"Imagine shopping apps being able to share a set of data such as a wish list or news apps being able to share a list of news feeds.",X
+10251,"Daemon service should be turnable on and off per app basis in the same way like periodic tasks.",X
+10260,"Please add the possibility to add your own spell check service or provide the data if a system wide one existed.",X
+10267,"If Microsoft created some incentives like a free device (Blackberry did this) and a free year of membership (Amazon did this) it could drive a lot of developers to the platform which is crucial to the platform taking off.",X
+10291,"It would be nice if when the app/game is published in the marketplace we could include a list of the testers that helped us so they can get the app from free instead of having to buy it.",X
+10292,"If the app shows sensitive data when deativated it would be good to be able to use a different image for fast app switching instead of a screenshot of the application",X
+10297,"I would be a really nice gesture to have an option wich can put everything to the other side so when left handed people scroll they could also see the content.",X
+10301,"It would be nice to be able to delete a cert you have uploaded.",X
+10330,"If it were possible to tell the task to show a pin (or pins) at a specific point (or points) that that would allow for a better user experience.",X
+10341,"An exit button should be there on all application software's.",X
+10342,"It would be nice if a choice between vibration and the sound is given for typing",X
+10362,"It would be great if the Windows Phone development team could allow us to use the RSTP streaming protocol in .NET Compact Framework we use.",X
+10375,"It would be nice to see Windows Phone move to optional vector based icons instead of static bitmaps.",X
+10389,"It would be great to be able to have the emulator location data use the NMEA file format - either via file import/export or using the files directly as a feed.",X
+10408,"currently you can only pin an album but it would be useful if you can pin a single image as a tile.. that way you have easy access to a it.",X
+10432,"Please upgrade the YouTube App by Microsoft Corp. with Metro UI instead directing to a mobile site.",X
+10433,"Add a full support of RegionInfo and add possibility to instanciate one with two letter iso code.",X
+10458,"when an alarm pops up an option to edit the reminder should be included instead of having to constantly hit snooze or exit the reminder and go into the object itself",X
+10459,"why shouldn't I as user be able to see reviews made by people from other countries?",X
+10469,"For apps that synchronize or connect to networks sporadically it would be handy to have an easy way to detect if you are on a cheap connection so if WiFi is connected or the device is connected to the web via USB.",X
+10474,"So suggestion is to add properties like “IsWiFiConnected” and “IsCableConnected” to DeviceNetworkInformation that execute fast.",X
+10492,"Give developers good explanation what they do wrong and enforce good design.",X
+10494,"Apps should take no longer than 2-3 seconds to start and need to explain why they would take longer.",X
+10496,"Please expand the MessageBoxButton option in Silverlight to include a Yes/No or Yes/No/Cancel option.",X
+10497,"It would be nice to have a modal control that is standard between applications with additional user choices available.",X
+10525,"I would like a button I can click that will only select the countries for which Microsoft already accounts for any taxes.",X
+10540,"Please provide APIs for call forwarding and other call management functions(hold/unholdswapconferenceetc)",X
+10541,"As a user I would like to be able to select songs that I have put on the device (from my library) to wake up to.",X
+10573,"Thus this idea is actually for the developers to make scrolling faster after each subsequent scroll like every 5 scrolls the scrolling speed will increase..",X
+10574,"Allow applications to define custom shaders in HLSL.",X
+10576,"Also allow access to MP4 encoder library (hardware accelerated) so apps can generate their own videos.",X
+10579,"QRCode should support chinese",X
+10580,"the mutitasking area should have every app that you have opened in it.",X
+10582,"To close an app the user should be able to use her/his finger to flick it upwards WebOS style.",X
+10583,"in addition the user should be able to take a scree shot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen a screen capture icon should appear and the outer edges of the icon should fill with green and onve the edges are completly green a photograph noise will occur allow with a sudden screen flare to tell the user the screen shot has been taken and saved in the saved images folder",X
+10600,"We need the ability for developers to add relevant tags to their app descriptions we then need the ability to search for apps with those tags tags should also be verified during app submission to ensure theyre relevant",X
+10605,"Please implement the whole TouchApi in the Internet Explorer and the WebBrowser Control.",X
+10624,"There should be a random id instead after every reset.",X
+10627,"Could a Smart dial please be finally applied to the phone app?",X
+10633,"It will be pleasant to go the main page of the app in the marketplace to see the general présentation screenshots & the other users reviews",X
+10636,"Allow user to send Video Audio and more pictures in an MMS now only one pic is supported",X
+10640,"Add movies and books would be an excellent addition for the system !",X
+10649,"Allow access to raw data such as signal strength imformation to allow creation of indoor location positioning using available wifi bluetooth or cellular networks when no gps data is available.",X
+10651,"Remove the 50 apps limit from the phone and 100 app limit from the marketplace web site when users search for an app with a search term.",X
+10655,"Since windows phones are selling hot in countries like India browser should start displaying Indian language characters.",X
+10658,"Supporting Windows Authentication could be very usefull for example writing app that interacts with Microsoft Dynamics CRM",X
+10677,"And a smart dialer can then be a full alternative to the built-in phone app since the app also can have a quick-button for goto the regular phone app whenever the user wants to do that.",X
+10678,"As an alternative to giving write-access to calendar (which can be hard to get a go on for security reasons) let us at least open an appointment directly in the calendar app.",X
+2845,"I don't know how they achieved this though because there is no known API in UWP for it right now.",X
+2846,"Not for any of the datetime controls anyway (DatePicker CalenderView etc.",X
+2848,"As of now it's only possible to set the CalenderIdentifier property to tell the control which calender to use.",X
+2849,"It's not possible to set the Hijri adjustment for the month of Ramadan/Shaban though which can vary per region/user (some users like to use the adjustment of a different country).",X
+2850,"The Windows 10 Calender app show cases this feature with their calender when you set the alternative calender to Hijri a new setting shows up which is Hijri adjustment and it works nice.",X
+2852,"I am using a UK keyboard layout and keys such as \ do not work",X
+2853,"ApplicationView.SuppressSystemOverlays has been deprecated for a while and the warning message says use TryEnterFullScreenMode instead.",X
+2854,"However there's an important difference in behavior that has prevented is from switching.",X
+2855,"With SuppressSystemOverlays you can still force the status bar to show using StatusBar.ShowAsync.",X
+2856,"When you use full screen mode StatusBar.ShowAsync doesn't work.",X
+2857,"To give you some context why this matters to us our app is a video streaming app with both VoD and live TV content.",X
+2858,"When the user starts video playback on a phone we use SuppressSystemOverlays to hide the navigation bar (on devices such as Lumia 950 that has them) and status bar.",X
+2859,"But we turn the status bar back to visible along with other playback controls when the user taps the screen.",X
+2860,"The information in the status bar is highly relevant to a video app.",X
+2861,"Signal strength directly impacts video playback experience.",X
+2863,"Sure we could replace the status bar with our own UI containing the same info.",X
+2864,"But reusing the operating system component saves us development effort and ensures it looks as expected as the operating system evolves.",X
+2872,"It seems it's still not possible to submit Edge Extensions to the store.",X
+2873,"I think it's almost over a year.",X
+2874,"You can ask for a request but it's not clear what and when something will happen.",X
+2878,"Currently the Win2D DirectionalBlurEffect is marked as [NoComposition] and can't be used with Composition APIs both in the Creator's Update and the new insider builds for the Fall Creator's Update.",X
+2888,"Dotnet Framework can uncompressed and open this application or User Interface.",X
+2892,"Once this client part is done  we can have rest api's returning json data while maintaining session on server .",X
+2893,"This new model of develpement can be used for both windows and web applciations.",X
+2894,"With windows u have the UI app and the service app hosted locally  may be the IIS express used during local debug can be used.",X
+2895,"So only differnce that makes it a windows application and web aplication is the url  if pointing to local its gonnabe windows standalone app elses its gone be web app.",X
+2896,"Which shoudl be configurable.",X
+2897,"This new approach of developing applicaitons simlifies the UI development  where developer get rid of learning other technologies like java scriptangularjquerystyle sheets and all those n number of scripts.",X
+2899,"As soon this gets in to market due to the ease of development this should boom which eventually kill browser like chrome there angular concept thus again giving Microsoft a opportunity to beat others",X
+2901,"To label the developer as .NET developer instead of windows developer or web application developer.",X
+2903,"Typical problem here would be deployment(Installationupdate) of the UI application to client machine But if we simplify this process of deployment like having the rules that the UI app should be only one obfuscated executable file It should not depend on reference… more",X
+2904,"If I use anywhere in my UWP app <BitmapIcon> with UriSource=about:blank this can happen when using databinding the app crashes when navigating to other page which contains WebView.",X
+2905,"Tested on Windows 10 Creators Update VS2017 15.2.",X
+2906,"100% repro is available in ZIP below.",X
+2909,"Bonus points for it to be xaml standard compliant",X
+2911,"Let's imagine that you drew a rectangle with yellow rounded corners and added the following text in it Login right after you've grouped it and now you want this to be a button simply you click convert to button and then click on toggle For XAML or click show XAML code and copy to clipboard then you just paste the code in Xamarin.Forms in Visual Studio.",X
+2913,"In addition this will allow a greater prominence of XAML Standard and greater acceptance in the market and in the media.",X
+2918,"This would make life easier for millions of developers.",X
+2922,"I'm working on a motion blur effect as post process for which I'm storing velocities into a render target.",X
+2927,"Don't require developers to use the background task builder and background triggers just to activate an app in the background.",X
+2928,"Both TimePicker and TimePickerFlyout support Hour and Minute and Period (AM / PM) selection.",X
+2929,"However second selection is often very useful and needed.",X
+2930,"A control that offers hour minute & second selection would be helpful.",X
+2931,"Add to CollectionViewSource function pointer to get the group objects not just PropertyPath",X
+2933,"the ContentTemplateSelector is broken when binding to ViewModels.",X
+2934,"This is a significant bug and kind of hard to believe it hasn't been fixed...",X
+2935,"A DatePickerFlyout whose Date is two-way bound will update target-to-source but not source-to-target.",X
+2936,"The following link appears to refer to the same bug.",X
+2937,"After seven months the issue still has not been addressed.",X
+2940,"When functions and FallbackValue is used in an x:bind at same time the parameter must match exactly.",X
+2945,"you'll get an error if the type of VM.Data is not object.",X
+2947,"represents a control that contains audio and / or video.",X
+2949,"Natively supported transition effects between one media and another",X
+2951,"Supports natively playing a playlist as an input ie a collection of URIs",X
+2953,"Infinite loop reproduction.",X
+2955,"Playback seamlessly between one media and another",X
+2957,"Video overlay support for example picture in picture",X
+2960,"Native support of SVG animation with SMIL inside XAML for Beautiful and Responsive UI and Hardware acceleration backend on OpenGL/Direct3D/Vulkan/Metal.",X
+2961,"The advantage of XAML to natively support SVG with SMIL is that you as a developer would not have to worry about these icons and animations the design or animator could do that in other software and deliver SVGs to you.",X
+2966,"In addition to being able to search on the internet SVG animated icons ready to use.",X
+2968,"These are widely used in the real world today.",X
+2969,"In several areas we find these types of control such as audio/video playes visual programming animation software single/multitracks audio editors video editors slide editors photo gallery websites social networks among many others.",X
+2973,"I believe that everyone in XAML lovers we want a robust and complete standard and that facilitates the life of the developer so I propose to include these controls as a standard of XAML specification.",X
+2977,"A control for visualizing and editing networks graphs and flow-charts",X
+2992,"The Backgroundtasks can currently be launched every 15 minutes by the TimeTrigger.",X
+2993,"Unfortunately if a task is launched via this TimeTrigger but appears idle to the Operating System then it is SUSPENDED.",X
+2994,"This means the task can not execute for the full 15 minute window.",X
+2996,"Leave them alone!)",X
+2998,"My current Backgroundtask has a timer in it which would allow my background task to wake up on a timer event periodically do some processing then wait again.",X
+2999,"This low amount of processing looks to be Idle so gets suspended.",X
+3000,"Does not make sense that an Idle task would be suspended for not being busy enough.",X
+3001,"Making the task more busy (to work around idle tasks being suspended) would mean more battery usage kind of the opposite of what you want.",X
+3005,"If you either leave Idle tasks alone (they are Idle so not using system resources right?",X
+3011,"Microsoft wants us to build more connected app with Project Rome API.",X
+3014,"I like the way MSPoweruser app has implemented this feature.",X
+3015,"In that app If we click Continue Reading button it will show all the devices connected to this device.",X
+3016,"So if I click on a device it will open the app on that device with the same artice.",X
+3019,"In 15063 we can extend brush (by XamlCompositionBrushBase).",X
+3022,"The Street and StreetNumber property of the MapLocationFinder.FindLocationsAsync() results have no value.",X
+3023,"However street and house number are included correctly in the FormattedAddress property.",X
+3024,"This bug occurs sine the Creators Update.",X
+3025,"It does not have any sense to be forced to compile C#/.NET for all targets prior to uploading package to Windows Store.",X
+3027,"What if Microsoft adds ARM64 target tomorrow?",X
+3029,"It also annoys during development because now my solution has to have 4 target platforms while it could just have one.",X
+3033,"I don't want to use a File Picker or XAML.",X
+3034,"What I want is to drag and drop a file then be able to get its full path and file name as stored on the disk and access it using standard C++ IO file access functions such as fopen fread etc.",X
+3035,"I don't want to use XAML because: it looks complicated it looks like it can reduce performance I'm making 3D heavy DirectX based applications that need full performance.",X
+3036,"I handle rendering the entire interface with my own commands using DirectX rendering.",X
+3038,"This works briliantly with just few lines of code.",X
+3039,"Which means there's no real simple API for UWP to do this and what I want is a simple API.",X
+3042,"So many things to do compared to just drag and drop.",X
+3043,"Also I've followed your links and it really sounds awfully complicated honestly I don't know where to start.",X
+3045,"For example I drag and drop a BMP image my app compresses it and saves as PNG image automatically in the same folder with the same name.",X
+3057,"Dual screen + Google Card Glass fulfill the function and make the application very attractive.",X
+3059,"Mark R. for the win...tegration !!",X
+3064,"We wanna to commuicate other App in Desktop.",X
+3065,"not only other UWP but WPF application.",X
+3066,"App Service is not real-time and not bi-direction",X
+3067,"I've done some tests and to my surprise DXGI_SWAP_EFFECT_FLIP_DISCARD instead of bringing performance improvements it slows things down.",X
+3068,"Nvidia GeForce 650m GT latest videos drivers (April/May 2017)",X
+3069,"Windows 10 latest updates (May 2017)",X
+3071,"I've made a simple application all it did was just clear the backbuffer several times and presented the screen.",X
+3072,"In v-sync mode I've cleared it more times to get below 60 fps limit.",X
+3073,"I've done the same tests in UWP mode using DXGI_SWAP_EFFECT_FLIP_DISCARD and results were the same slow as in Win32/WinAPI.",X
+3074,"Why are you limiting UWP and DirectX12 to flip mode that is slower?",X
+3081,"While BC7 is great the BC1 quality is not really good however we still need small size for textures as my game is currently over 11 GB of texture data.",X
+3082,"From what I see ASTC would be great for that have good quality but also small size looks like it has lot of format options so I could choose what I want.",X
+3084,"What happened to ASTC texture format?",X
+3085,"Originally this was supposed to be included in DirectX but later was scrapped.",X
+3086,"Are we going to see it eventually?",X
+3087,"Currently I'm using only 2 texture formats:",X
+3094,"Currently it is really painful to add new Controls from newer Windows SDK versions to apps and still support older versions.",X
+3096,"Ways this could potentially be fixed:",X
+3100,"This would be really helpful when it comes to upcoming Fluent Design supporting new Fluent Design Styles and Supporting the Design Waves.",X
+3102,"I'm pretty sure the new TreeView is not Fall Creators Update dependent.",X
+3110,"I am especially interested in how this would work for my app to span different hardware types regardless of form factor or OS -- the idea of a seamless experience between Windows desktop and Android or iOS mobile is compelling... but I need to see some examples before I invest.",X
+3112,"I've read about Project Rome and the possibility of creating cross-device experiences (https://blogs.windows.com/buildingapps/2016/10/11/cross-device-experience-with-project-rome/) and am particularly interested in the Project Rome Android SDK (https://blogs.windows.com/buildingapps/2017/02/08/announcing-project-rome-android-sdk/#HQl7ibqTUGYzrufw.97).",X
+3115,"Map became unusable after phone 10.0.15063 update.",X
+3117,"a) It is extremely slow.",X
+3118,"ResolveCompleted event comes after ten seconds.",X
+3119,"b) It draws MapPolygons blurred with jagged borders.",X
+3120,"c) It draws MapPolylines in wrong positions (very very often).",X
+3121,"They take right position then after manual shifting of map but initially 20-30% of them are misplaced after being added to MapElements collection.",X
+3122,"Most often it occurs near map borders.",X
+3123,"d) Lines on traffic layer are blurred jagged and looking bad.",X
+3127,"While nice looking UWP UI is not well suited for creating UI-heavy classic applications (think VisualStudio/AutoCAD/Blender/LOBs with a lot of data) that you would never want to use on tablet/phone.",X
+3129,"For example MS provide the lot of sdk and new technologies about Win10 Fall CU.",X
+3130,"The SDK itself support the side-by-side installation then we can try the new API with our UWP Apps.",X
+3131,"But there are no way to distribute this kind of app to testers or customers that use Win10 Insider preview.",X
+3132,"It only allow the Customer Update SDK level.",X
+3134,"You know many of Microsoft Apps are updated with new SDK and it'll be available at the store during Insider Preview.",X
+3135,"If our - ISV - UWP App also have this feature we can spent more time to trying the new feature and Insider customer and testers can use it and we could got feedbacks.",X
+3147,"This is really a must for apps that target businesses or wish/must to support older devices that will not get the latest versions.",X
+3149,"uwp Media Element or MediaPlayerElement are fantastic with UI.But their codecs to play different kinds of audio and video files is very limited.",X
+3153,"Because if you currently assign a Binding a VisualState setter as below it will resolve the value of the binding and assign that to the target while you would like to assign the binding itself.",X
+3154,"This will allow designs and implementations to change bindings depending on states and even help some states where some bindings are not required to be temporarily set to x:Null for performance (handy in complex screens).",X
+3167,"We can see the entries added in the registry but client cannot access the interfaces.",X
+3168,"We see an error CLASS_NOT_REGISTERED message.",X
+3169,"Saw the same issue with client app in PackagedComServer sample with those 2 settings changed.",X
+3176,"For example lets say I want to create shorthand for aligning a control inside RelativePanel fully horizontal like AlignHorizontalWithPanel.",X
+3183,"Allows desktop apps to incrementally adopt UI innovations and creates a bridge to UWP for app UI.",X
+3184,"I tried the converted app using IME.",X
+3185,"Microsoft IME and JustSystems ATOK work fine.",X
+3187,"Of course Win32 Apps and UWP Apps can use Goggle IME.",X
+3188,"We want to improve support Google IME.",X
+3190,"It scanned my entire computer for certification (way outside the scope of building a UWP application).",X
+3191,"It took an hour just to get through my STEAM library.",X
+3192,"Cortana for Windows IoT core only supports English.",X
+3194,"I thinks it's not difficult to do since Cortana for PC supports up to 13 languages as listed on https://support.microsoft.com/en-us/instantanswers/557b5e0e-0eb0-44db-87d6-5e5db6f9c5b0/cortana-s-regions-and-languages",X
+3195,"Ability to provide powerful animations in markup.",X
+3198,"Especially for StringFormatConverter and FormatStingConverter.",X
+3200,"I have not found an easy way to download payout summary in an automated fashion.",X
+3201,"Probably not looked in the correct place yet.",X
+3202,"Even went so far as to chat and the rep indicate that this not currently supported.",X
+3203,"This would be insane.",X
+3204,"I have reported sales information from many other sources.",X
+3210,"The WebProxy property does not seem to have an impact on Windows 10 systems.",X
+3212,"When I try to call LaunchUriAsync or LaunchFileAsync in tablet mode the calling app will not show on the top (app is loading and goes to background).",X
+3213,"I see only start menu (tiles)",X
+3217,"It appears that the MapIcon rendering by the MapControl has changed significantly with the Windows 10 Creators update.",X
+3218,"We have an app that at times adds hundreds of MapIcon objects to the MapControl.",X
+3219,"Before Creators update this worked fine and the vast majority if not all were displayed.",X
+3220,"After creators update we are only seeing a small portion of the MapIcon objects being rendered onto the map.",X
+3221,"And it's not because they are colliding with other MapIcons.",X
+3222,"We are seeing large portions of the map not displaying any of the MapIcons we've added.",X
+3223,"We have always been aware of the guidance that a MapIcon is not guaranteed to be displayed but it's never been a problem.",X
+3224,"We've even tried setting MapElementCollisionBehavior.RemainVisible but it doesn't make much difference.",X
+3225,"It seems like there's now some sort of internal limit on how many MapIcons are displayed at a time.",X
+3226,"I couldn't find anything in the release notes about this change.",X
+3235,"The UWP scrollbar is white and is invisible on a light background.",X
+3236,"It can only be seen on a dark background.",X
+3239,"The skeleton tracking is not working on XBOX.",X
+3240,"You can verify this with the CameraStreamCorrelation sample.",X
+3241,"MediaFrameSourceKind.Custom is not available on the XBOX.",X
+3242,"It is available on the PC though.",X
+3243,"The following streams are available on the PC:",X
+3248,"The following streams are available on the XBOX:",X
+3252,"As a result skeletal tracking apps do not work on the XBOX platform.",X
+3253,"Are there any plans to support skeleton tracking on the XBOX?",X
+3254,"The UWP application platform has a rich media API which allows querying of a video device (e.g.",X
+3256,"It seems such a shame that the new Kinect drivers expose the Kinect via this API and yet the ExposureControl is marked as being not supported for the Kinect.",X
+3257,"From the libfreenect2 library it seems entirely possible to tell the Kinect not to do auto-exposure.",X
+3258,"The auto-exposure function causes major headaches for the app I'm working on and I would dearly love to be able to turn it off.",X
+3260,"I've noticed that when you create a DataPackage containing both data provided directly (let's say text using SetData) and delayed formats like a bitmap (using SetDataProvider) when closing the application the whole clipboard content is cleared.",X
+3261,"I expect that the content set directly (the text) to persist after closing the application.",X
+3262,"In VS2015 (and maybe in 2017) the compiler raised a warning (that we missed) that stated some of our code was currently unsupported by the UWP toolchain.",X
+3263,"This led to a runtime crash that took a long time to figure out.",X
+3264,"To me something that may cause a runtime crash (and that the compiler clearly knows to flag) should not a warning but an error.",X
+3266,"warning : SG0002 : Cannot generate serialization code for type '***'",X
+3267,"The 'MethodName' property of the KnownTypeAttribute on type 'ObjectModel.Entities.BaseThing' is not currently supported.",X
+3270,"xbox dev mode companion work ipv6 please...",X
+3271,"Make it really smooth to update code of a UWP app,  like you are already doing with the XAML part the app is automatically reloaded without being shut down and relaunched.",X
+3275,"There is only one direction for the radial progress bar control (clockwise).",X
+3281,"But the xbox one doesn't provide any diagnostics data of apps (e.g.",X
+3283,"There is a section for that in the device portal but there is currently not data.",X
+3284,"A XAML designer for Visual Studio in Windows 7.",X
+3286,"Users are asking me frequently for a XBox version of my app.",X
+3287,"Unfortunately I do not own a XBox nor would getting one make sense (it is a free app so I am not really interested in spending lots of money just for developing purpose.)",X
+3289,"It's just the same like with mobile.",X
+3290,"Here we have several emulators and I usually make use of them first instead of plugging a device immediately.",X
+3291,"Even more important XBox has a limited API with respect to desktop and mobile.",X
+3294,"Personally I won't enable XBox without having tested my app first - at least in an emulator.",X
+3303,"In Windows 10 (Messages for example) there is a very nice control for entering/selecting contacts to send an email or text message etc to.",X
+3304,"The control would allow for the use of the contact picker but allows for manual entry and deletion of contacts.",X
+3305,"The control would include a field for required ContactFieldTypes.",X
+3307,"The FileOpenPicker has the SuggestedStartLocation and the official description of how it works is:",X
+3308,"The SuggestedStartLocation is not always used as the start location for the file picker.",X
+3309,"To give the user a sense of consistency the file picker remembers the last location that the user navigated to and will generally start at that location.",X
+3311,"This is not always the best solution for example pretend you had a UWP app that asked the user to select a picture and a music file.",X
+3312,"In this situation SuggestedStartLocation makes it more confusing because when the user tries to pick a music file the FileOpenPicker is opening in the PicturesLibrary.",X
+3322,"I noticed this problem as soon as I adapted my app to use ImageEx.",X
+3323,"I use an event to change opacity to 1 once the image is loaded and sized and immediately I noticed that instead of just displaying the image faded in with a 1-second animation.",X
+3324,"This animation seems hard-coded into the style so to get rid of it I would have to redefine the style.",X
+3325,"A real pain just to get rid of the animation.",X
+3336,"I am migrating my app from Windows Desktop using Core Audio API to UWP using hopefully AudioGraph.",X
+3338,"I saw new post and I confirmed that the problem was fixed following URL.",X
+3340,"Thanks for fixing an issue.",X
+3341,"But I noticed that it still happens no sound issue in another situation.",X
+3342,"(Ofcourse I'm using Windwos 10 Creators Update Version.)",X
+3344,"(neither foreground nor FullTrustProcess)",X
+3345,"-> It sounds normally after reboot OS.",X
+3347,"We have a very large WPF application built upon the Virtual Earth API with heavy customization of the rendering pipeline.",X
+3348,"We are exploring moving forward with UWP but currently there is no way to access the pipeline to add custom shaders and models like we do now in Virtual Earth with Microsoft.MapPoint.Graphics3D.GraphicsEngine3D and Microsoft.MapPoint.Rendering3D.Scene.Step.",X
+3350,"Currently MultiSelectModel does not work as documented:",X
+3351,"Player: Your app is activated one time.",X
+3352,"All of the selected files are passed to your app as argument parameters.",X
+3353,"As far as Anniversary Update and Creators Update are concerned MultiSelectModel has no effect and only one file is passed as argument to the application regardless of how many files have been selected in Explorer.",X
+3354,"Please support the passing of all selected files as command arguments.",X
+3355,"All the documentation on how to call UWP methods are in C# and require the .NET platform.",X
+3357,"I'm developing a Java application so interop with C# is kinda tricky while interop Shell32 API or C libraries is pretty easy and straightforward with JNA.",X
+3358,"Many developer will be bringing java / python / etc applications to the Windows Store via the Desktop Bridge.",X
+3361,"Master Panel in MasterDetailsView was intended to be used as PullToRefreshListView because usually the ListView in Master Panel is dynamically changing It is often used for showing Collections of Emails Articles etc.",X
+3364,"Future access list is great in theory but adds too much overhead.",X
+3366,"Not mentioning that some kind of apps need more than 1000 file access - why to give such a handicap for the whole platform?",X
+3367,"How UWP apps can compete with other systems with such things?",X
+3375,"BTW - seems that FutureAccessList sometimes has bugs and people are leaving platform",X
+3380,"The Windows Store analytics API is great.",X
+3383,"The most important data is the Conversions breakdown by campaign ID table at the bottom of the page.",X
+3384,"Currently UWP can't open WASAPI output devices in capture mode due to COM restrictions.",X
+3385,"This means loopback auto capture is not supported.",X
+3386,"It is very difficult to Create a Custom RichEditBox with all the basic features Like Text Formatting Bullets and numbering Support for Inking Like OneNote and also to support adaptive layout that's too much work for basic Text editing.",X
+3390,"I'm creating app using face detection.",X
+3392,"Until now I can't find any api or documents about this.",X
+3393,"We have a MediaPlayer that works with OneDrive MKV streams in previous versions but not in Creators Update.",X
+3394,"If we put the MKV in another service or server the video is reproduced but the connection with OneDrive has been lost.",X
+3395,"Player raises SourceNotSupported error.",X
+3399,"But that would be beyond what the control *should* do in terms of separation of concerns.",X
+3401,"The function would get the original text and is expected to return either XAML objects or maybe a more abstract of representation of colored text which is then handled by the control.",X
+3402,"Now that the MarkdownTextBlock control supports fenced code blocks (```) in version 1.4 language-specific syntax highlighting *would* be the next step (e.g.",X
+3411,"The problem is it always provides the latest version only.",X
+3414,"This is really important not only for menus & toolbar buttons.",X
+3415,"For example one thing I can't do right now is a simple search popup that would let me keep focus in where I'm searching similar to how search in Cortana works.",X
+3416,"Background audio playback working on Build 14393 does not work on Build 15063.",X
+3417,"It stops on the way.",X
+3428,"At the moment there is no easy way to prevent a one-way binding from clearing when a DependencyProperty is set to a new value.",X
+3430,"Chinese and Italian support have already been asked for.",X
+3431,"Our desktop application displays a dialog using the GetOpenFileName API function access to the Network Drive may fail.",X
+3432,"There is no problem when accessing by computer name.",X
+3433,"It does not always result in an error.",X
+3434,"In some cases an access error may occur at the time of opening a file or it may be opened correctly.",X
+3435,"We want a solution.",X
+3437,"I use them in the speech SDK for a desktop application and are now trying to use them in a UWP app.",X
+3439,"I've written a helper for binding to and from Observables similar to frameworks like angular2.",X
+3443,"System is deleting and recreating the TLS self-signed certificates for the device portal on port 50443 a lot.. sometimes every 5-10 minutes in the windows log.",X
+3444,"For sure it resets them every reboot.",X
+3446,"When you view an exception you get a completely useless stacktrace with only hex values for function names because of optimization.",X
+3447,"We can't use that at all.",X
+3449,"This enumeration is mainly used with AppBarButton like as <AppBarButton Icon=Smile/>.",X
+3450,"Recent Segoe MDL2 asset have many of new glyphs.",X
+3451,"But the enumeration of Symbol is not updated from Win10 10240.",X
+3452,"And some of important glyphs of 10240 are also lacked from the enumeration.",X
+3454,"For example Share glyph - 0xE72D - is not enumerated.",X
+3455,"This cause the many of engineers use the bitmap or other similar glyphs.",X
+3457,"But many of developers don't.",X
+3458,"(Like Photo app)",X
+3474,"My users are also reporting the same problem and some of them say they resign of the app/platform (!)",X
+3476,"How we the developers are supposed to work when such important thing like access to files is not working after the OS update.",X
+3477,"This affects many of the apps and in result the whole platform.",X
+3478,"The FutureAccessList has an issue.",X
+3479,"After a firmware update for my phone I was unable to retrieve folders/files from a token.",X
+3480,"The token I was asking for was present in the FutureAccessList but it gave me a FileNotFoundException.",X
+3490,"Please let me know if you would like to use this as the code itself is ready to go and easy to use.",X
+3492,"Today only SelectRange(ItemIndexRange itemIndexRange) exists in ListView to add new selection range to the current selection and SelectedRanges property is only { get; }.",X
+3498,"After releasing the pointer or finger the list abruptly return to position 0 and the refresh indicator is hidden",X
+3499,"I noticed there is a possibility to block payments in the interface of my Windows Store developer account but it is a Boolean.",X
+3500,"Would it be possible to get paid only a certain amount leaving the remainder blocked on the MS account ?",X
+3502,"And the interest for MS would be obvious.",X
+3503,"We live in a connected world.",X
+3504,"And I have a connected app that benefits from fast low latency networks but can work with a larger buffer if need be.",X
+3518,"Right now the APIs only allow recognition of text input.",X
+3519,"I know Microsoft already has the digital ink recognition technology for math formulas.",X
+3520,"It's even available in WPF via Math Input Control.",X
+3525,"Same code on machine with anniversary update portal shows the string message in payload.",X
+3526,"capturing events with xperf shows the message in EventData as expected so I know it's logging correctly.",X
+3527,"Something seems to have changed with loggingchannel possibly default manifest code that handles the string message has changed around 15043?",X
+3528,"FWIW preview versions of windows post anniversary update were showing the message correctly.",X
+3530,"I'd like to have implicit DataTemplates in UWP.",X
+3531,"The main scenario is MVVM and resolving a View from a ViewModel.",X
+3535,"Currently i can only input plain text in toast notification <input> since the type does not support password.",X
+3537,"Currently the only way to set BackgroundDownloader's header is by SetHeader method unfortunately once you set the heder value you cannot clear it as the method:",X
+3539,"This method can be called multiple times for the same header.",X
+3540,"The values will then be concatenated.",X
+3541,"The problem comes when we want to create multiple downloads with one downloader if the server requires to send request via headers we are not able to downloaded files/items within one downloader every item requires to create a new downloader instance with new headers.",X
+3542,"Of course in that case we cannot use grouped toast notification.",X
+3549,"Request for an editable combo box that allows:",X
+3550,"Currently page breaks are not supported with the PrintHelper.",X
+3553,"Currently it is possible to specify multiple groups/subgroups within the various tile sizes for adaptive tiles but if the content doesn't fit then some groups won't necessarily ever be shown (they are dropped since the tile can't fit the groups).",X
+3555,"I recently browsed the UWP docs and found some interesting APIs about Accessory Management etc.",X
+3556,"Since I developed an application which could massively profit from those APIs as they allow volume control etc I wanted to use them.",X
+3557,"Unfortunately for me I cannot use those APIs as they are restricted for use and getting access is only possible with a company developer account which I do not have.",X
+3559,"For me it is perfectly acceptable to request access to them so they are still under control but I do not want to create a company account for this.",X
+3571,"I have lost count of the number of times I've forgot to set it to OneWay.",X
+3573,"Yes I know why it isn't but looking at my code nearly every instance is set to OneWay or TwoWay anyway.",X
+3574,"Developers need to have good and deep understanding of how UI virtualization works on UWP app",X
+3575,"When you publish an app in Dev Center it allows you to select the category (and subcategory) for the app to be placed into.",X
+3576,"On both the mobile and desktop versions of the Store app you can browse these categories.",X
+3577,"However this feature is not present in the Store app on the Xbox.",X
+3578,"Unless your app makes it into the Top Apps sections or Promoted apps then users can only download your app if they know about it and search for it by name themselves.",X
+3579,"If their app like mine is published solely to the Xbox then it makes it very hard for users to become aware of your app.",X
+3588,"If you have no more disk space; the install crashed.",X
+3590,"The combination of toasts and Action Center provide a convenient lightweight way to communication with users but after notifications are read they disappear.",X
+3592,"I'm currently working on a clock control for my UWP todo-list app 2Day (www.2day-app.com).",X
+3593,"I'm creating this control using inspiration from the great Material Design WPF toolkit.",X
+3594,"The very early work in progress version is available on my repo: https://github.com/japf/uwp-material-clock",X
+3597,"In UWP we have a CommandBar but it seems it's not easy to use to build a classic toolbar for a desktop application.",X
+3600,"Currently you can use the Pivot or there are 3rd-party vendors providing a TabControl.",X
+3601,"But as this is such a central control it should be part of the platform.",X
+3604,"And I was impressed how far I got.",X
+3616,"I created a separate uservoice entry.",X
+3629,"You're building on a TreeView-control as your backlog on https://developer.microsoft.com/en-us/windows/platform shows.",X
+3630,"I'm using the TreeView of your official samples on https://github.com/Microsoft/Windows-universal-samples/tree/dev/Samples/XamlTreeView.",X
+3631,"The point that I really miss when working with hierarchical data is the HierarchicalDataTemplate like we have it today in WPF.",X
+3633,"It makes especially sense when you release a control for hierarchical data like the TreeView.",X
+3634,"1000 entries as limit for FutureAccessList is way to low.",X
+3638,"Store the folder containing the file wont exceed the limit as fast as storing each file in the FutureAccessList.",X
+3640,"A big downside hides in DragDrop (https://docs.microsoft.com/en-us/windows/uwp/app-to-app/drag-and-drop)",X
+3642,"To counter that and trying to add the folder from the file this won't be possible because an exception would be thrown even if you added the file itself to the FutureAccessList before that.",X
+3667,"Best practice until now:",X
+3669,"One Exception where a folder can't be added:",X
+3673,"I don't for how long but I noticed it a few days back that there is a change in de Windows app store seacchresults.",X
+3675,"PC apps are harder to find this way.",X
+3676,"Also I noticed that in the Mobile store apps are shown twice after search with a keyword.",X
+3678,"Is this new policy or is it a bug?",X
+3683,"When building line-of-business-apps for enterprises we often focus on desktop only.",X
+3684,"Today we're using WPF for these tasks.",X
+3686,"I'm converting some wpf apps to uwp and I'm missing a report control.",X
+3689,"Similar request but a report control for rdlc support:",X
+3692,"Currently it is nearly impossible to create a custom virtualizing panel.",X
+3695,"A lot of custom controls do not use virtualization because it is so hard to implement in UWP.",X
+3696,"This makes the controls hard or even impossible to use with large collections.",X
+3697,"Please open up the base classes for inheritance and provide a sample how to create a custom virtualizing panel.",X
+3699,"AdControl on Xbox in Retail Mode crashes app works fine in Dev Mode or on Desktop & Mobile.",X
+3700,"Something has changed in the Microsoft Store Services SDK framework or in the Microsoft Advertising SDK for XAML library that is updated automatically to the Xbox since February 9th 2017.",X
+3701,"To repro download any app from the store which contains ads and it will instantly crash on the spash screen.",X
+3705,"Why is the UWP team stubbornly resisting this?",X
+3706,"Without this UWP is more or less a toy because any customization requires that the app be deployed completely separately.",X
+3707,"Other platforms allow for customization to be downloaded and dynamically loaded in to the app domain.",X
+3711,"APIs is messy and not appropriate for loading scale sensitive assets.",X
+3712,"Parsing the PRI is only possible in unencrypted appx scenarios.",X
+3714,"The current options have the current drawbacks for me:",X
+3718,"This is only relevant for desktop UWP apps.",X
+3719,"There are genuine use cases when we need to keep an app running when close button is pressed.",X
+3722,"You can at least provide any of these solutions.",X
+3727,"You can only allow an app to catch close button event and minimise it to task bar programatically.",X
+3731,"One Scenario is that of a shoutcast source for Internet Radio streaming.",X
+3732,"A shoutcast source transmits MP3 data via TCP to a shoutcast Server.",X
+3734,"Currently I have to save a MP3 stream to a file and then read from the file and transmit it over TCP.",X
+3736,"Allow other formats than PCM and float for a FrameOutputNode created with CreateFrameOutputNode of class AudioGraph.",X
+3743,"Currently an in-process appservice can be invoked without actually launching the main app ui.",X
+3744,"However once a user launch the main app ui and close it appservice is also terminated (because both shared same process).",X
+3748,"I'd use this for my media phone playing Groove 24/7.",X
+3750,"This control is not to be confused with the existing pivot viewer in UWP.",X
+3751,"This control makes a great addition for displaying large amounts of data in a visual friendly format.",X
+3753,"The control is the equivalent of a pivot table in excel  you simply add the datasets with labels and the control sorts out all the selection fields  visualizations and animations.",X
+3765,"I cannot port my Windows Phone Silverlight App to UWP because it is depending on the Panorama Control which is missing in UWP.",X
+3766,"The panorama control is still the best control for my app and my users love it.",X
+3767,"Updating the app to UWP is not possible without this control.",X
+3768,"The Hub control is not a suitable replacement.",X
+3773,"Use case: As neither Groove nor Spotify have a lyrics functionality (anymore) I created a simple UWP app to manage lyrics for songs.",X
+3785,"Currently there is no way to prevent MenuFlyout from closing when user click any of its items.",X
+3786,"I'm not even sure if it is not a bug because setting args.Cancel in Closing event is not working.",X
+3791,"Support I/O transactions on UWP platform as part of Windows Runtime API for file I/O",X
+3796,"For example three quick touch strokes to scroll immediately to the top or bottom.",X
+3797,"Really long lists and views are boring to scroll even at maximum scroll speed.",X
+3798,"Keyboard have Home/End keys to scroll to top/bottom but touch screen doesn't have same capability.",X
+3799,"There is SystemTriggerType PowerStateChange but it is not triggered when percent is changed.",X
+3816,"But this library is fairly low-level.",X
+3817,"There is no way to implement complex text markup rendering without Direct2D or slow manual composition inside Canvas control.",X
+3818,"There is absolutely no easy way to implement selectable text with complex markup.",X
+3819,"RichEditBox control exists but there is no lightweight control for just display rich text (RichTextBlock isn't related to RichEditBox and feature-lame).",X
+3820,"The ToastNotification object has a convenient ExpirationTime property that automatically dismisses it after a given period.",X
+3821,"Unfortunately the ScheduledToastNotification which is just a ToastNotofcation but scheduled lacks this helping feature.",X
+3822,"This makes me as a developer scracth my head and write a lot of code including background tasks just so I circumvent this problem and not have the users of my app get crowded with not-so-relevant-anymore notifications in their action center.",X
+3824,"The MapControl is quite limited in operations with custom tiles.",X
+3825,"I have need to redraw the tiles periodically because they become outdated (the closest similar example is traffic layer which needs to be periodically refreshed).",X
+3826,"The (ugly) workaround I use is adding and removing MapTileSource which forces tiles redraw.",X
+3827,"Even more since this operation results in tiles flickering (because of redraw) I have to use 3 tile sources switching between them.",X
+3828,"That crasy staff involves heavy redrawing of the map and it also leads to visble scrolling slowing down in the moment of MapTileSource adding (which would be nice to fix too).",X
+3836,"Currently UWP apps have no ability to include menu controls with excellent mouse support.",X
+3841,"That concept is painfully evident when using Microsoft's Edge browser and you want to browse various Favorites menus.",X
+3844,"Specifically excellent mouse support means that menus will support all the hover actions that menus currently enjoy in win32 applications.",X
+3845,"So if a menu is displayed and the user moves the mouse over another menu (without clicking) the first menu would close and the new one hovered over would open.",X
+3846,"The current situation requires two mouse clicks to accomplish the same thing as a simple hover should.",X
+3847,"One click to close the first menu and a second click to open the new one.",X
+3849,"At the moment there is no possibility to quickly navigate through long lists on small screens.",X
+3850,"If the list is alphabetic there is at least the possibility to jump to the first entry with the same first letter.",X
+3851,"But sometimes lists are not in alphabetic order or there are still thousands of entries starting with the same letter.",X
+3857,"I don’t know what the component should look like.",X
+3859,"I want to test my apps in multiple languages without changing the region of my entire device.",X
+3861,"It can happen that sometimes we do need a control to store a list of pages/elements that looks like a Pivot control but with a infinite list of pages/elements.",X
+3869,"I'm developing a Windows Universal App and I'm sicked and tired of finding a way to implement encrypted local DB support.",X
+3870,"(I already have a database file encrypted by SQL Cipher and I just have to read the records)",X
+3871,"I know SQLite support Universal App Development through Nuget in VS2015",X
+3872,"But SQLCipher is not - it supports only commercial edition ($899) and I can't afford the expense.",X
+3873,"So I tried to find other ways such as Excel Access or SQL Server Compact Edition.",X
+3874,"Surprisingly NO ONE OF THEM supports Universal App implementation.",X
+3875,"That's ridiculous and I'm sick and tired of finding the way.",X
+3876,"Does Microsoft really NOT support local database in developing Universal App?",X
+3877,"I can't understand why I'm confused in this situation which is possible on Android or iOS so easy.",X
+3887,"Basic scenario is the need to store set of secret API keys for various 3-rd party APIs (twitter for example).",X
+3891,"So application would request secret API keys as needed from system-provided secure storage.",X
+3893,"Release appx shouldn't have secret keys inside and keys should be on Windows Store server and those keys would be requested from server on application install.",X
+3896,"Just to hardcode API keys inside app executable files is security risk as it can be reverse engeneered.",X
+3901,"Hello there is currently a bug withing the insider preview for desktop and phone.",X
+3903,"Mouse scrolling works fine and it was also tested on the normal Windows builds where it was working as intended.",X
+3904,"I found this thread on Github: https://github.com/winjs/winjs/issues/1654",X
+3906,"You can also find a code sample here",X
+3910,"If you create a ListView in an HTML UWP app you can't invoke an item after scolling trough it with your touchscreen.",X
+3918,"Another advantage is the developer already have a preview in design mode",X
+3929,"The idea would be to have a Try button on every sample.",X
+3930,"This button will generate a ready to use Visual Studio project with the current sample.",X
+3931,"It seems that animated GIFs disappear when application minimizes / restores.",X
+3932,"This is reproducible in the XamlAnimatedGif sample app on Win 10 Desktop.",X
+3938,"Notice animated GIFs appear.",X
+3944,"At least one of the animated GIFs will disappear.",X
+3945,"Eventually they all disappeared for me.",X
+3948,"This facility exist for public store apps but not LOB ones.",X
+3952,"I find myself writing this control over and over in various projects and it's never vey good.",X
+3956,"* Allow the user to select items drag them around and resize them.",X
+3964,"We currently have a store app that works with our desktop app and it causes a great deal of confusion.",X
+3965,"It also creates a large hurdle for new users and causes a number of headaches.",X
+3966,"The issue is that our software uses ui access to emulate an onscreen touchpad and custom gestures.",X
+3967,"We also allow for simultaneous pen and touch to add touch keyboard hotkeys to a docked custom keyboard (typically aids in drawing and ink based applications)",X
+3970,"I love what you guys are doing and can not tell you enough how much anticipation I have to get in touch with you guys and find the answers to these questions.",X
+3971,"if you need anything from me for any reason I will do what ever I need to do to improve our software for our users.",X
+3979,"As developer I want to create custom picker like Date or Time pickers",X
+3980,"Here are some more things I would appreciate:",X
+3982,"- the scaling of the website sometimes doesn't work.",X
+3985,"- I don't know if it is only me but I can't kill a running process but i can stop a running app",X
+3990,"text and parts of graphs are not wisible because it disappears below.",X
+3991,"you can't scroll at that point.",X
+3996,"Currently SmartCard API doesn't have any method to force a reader to reset smartcard (Cold Reset or Warm Reset as described in ISO7816-3).",X
+3997,"It is important as fallback mechanism when the smart card is not responding.",X
+4001,"This is really way too long in UWP Xaml not addressed.",X
+4006,"Latter uses new features of Windows 10 and receives excellent reviews but store mixes them with worse ratings from Windows Phone 8.1 users.",X
+4008,"My app users are reporting that they can't get information about my durable add-on on the Xbox One and Xbox One S.",X
+4009,"When my code checks for the property AddOnLicenses the collection is empty for users that have purchased the add-on.",X
+4010,"We have tried with ExtendedJsonData property but the add-on array is empty too.",X
+4011,"We can't determine if the add-on is active and neither the expiration date.",X
+4014," In an XAML page there are some buttons and command bar buttons both of which have access keys set.",X
+4016," When user invoke the access key of a button to navigate out the AccessKeyDisplayDismissed event of the command bar button isn't invoked.",X
+4018," When the user pressed the access key of a button to navigate out the tooltips of command bar buttons stay where they are.",X
+4022,"If a URL is required then either I have to use something like OneDrive which I think looks a bit unprofessional or I have to create a web page which requires hosting etc and either way it creates an extra separate thing for me to have to manage and remember.",X
+4026,"I would prefer it if everything to do… more",X
+4027,"When using Windows.Media.Transcoding.MediaTranscoder to transcode ALAC file to something else it reports CodecNotFound.",X
+4029,"More interestingly transcoding other files to ALAC works fine.",X
+4033,"PrivateObject and PrivateType are missing in Microsoft.VisualStudio.TestPlatform.UnitTestFramework",X
+4034,"On this page there is explanation how to make a file explorer integration on a desktop bridge app:",X
+4038,"I want to add this as a context menu option on for instance zip and iso-files.",X
+4041,"Also there is no way to having different verbs on different file types which could be quite limiting.",X
+4046,"I am working on porting an app that could calculate MD5 checksums on a file.",X
+4049,"We have a uwp in the store and a desktop companion app.",X
+4050,"Currently to install our software (and have it function) both programs are needed.",X
+4053,"The issue we run into is that our desktop app uses ui access.",X
+4054,"Is ui access support on the list of upcoming features?",X
+4055,"Having a good informed answer to this question will help tremendously in helping us understand how to proceed.",X
+4056,"I would be beyond excited to get a response.",X
+4057,"It would mean the world to our small team to hear from you all!",X
+4058,"Some of our ui access features may be convertible to direct ink functionality would that be a worthwhile pursuit or would that leave us facing the same intersection from a different direction?",X
+4060,"our app is called tablet pro it may be of use to know that.",X
+4068,"Building our email list has been at the forefront of our small software companies goals for a few years.",X
+4069,"Probably the biggest question I have is how to use the store without loosing our ability to acquire user emails without complicating the process for the end user.",X
+4071,"I may simply be unaware of how this is done.",X
+4072,"Is there a process in place for gaining downloaders email addresses?",X
+4073,"This would be HUGE.",X
+4080,"Since 2009 the advent of Silverlight PivotViewer Control shifted the handling of large datasets giving a way of filtering and analyzing large volumes of data.",X
+4081,"Being an enterprise developer the advent of Big Data I believe the SeaDragon PivotViewer lastest binaries should be ported over to WPF/UWP apps as it is a well needed tool.",X
+4082,"For line of business applications processing large datasets.",X
+4084,"Currently the ScrollViewer's content can be overpanned.",X
+4085,"Since we are preparing a custom control with the ScrollViewer the look and feel is not nice.",X
+4087,"Support the last version of Net Standard 1.6.",X
+4088,"Developing desktop apps for UWP is subpar as many API are not present like SqlClient.",X
+4089,"Microsoft is loosing a huge market by not supporting a full net standard.",X
+4091,"The store does not allow a developer to update their response to a user's review once it is made public while users are allowed to update their reviews at will.",X
+4092,"A user may change his review completely and the original response could become totally irrelevant.",X
+4095,"I am attempting to design something to support functionality similar to Android's startActivityForResult() using the page stacks but I have no visibility into the management of the page stacks (BackStack and ForwardStack).",X
+4096,"This introduces the opportunity for a memory leak as these stacks are pruned in response to user navigations.",X
+4097,"Evidently the MediaComposition.SaveAsync() API internally uses the StorageApplicationPermissions.FutureAccessLists API which has a limitation of 1000 items.",X
+4098,"If you add more than 1000 clips created via MediaClip.CreateFromImageFileAsync() the API will fail with this exception:",X
+4099,"WinRT information: The maximum number (1000) of items in the access list has been reached.",X
+4100,"An item must be removed before another item is added.",X
+4101,"Additional information: The maximum number of items for the access list has been reached.",X
+4108,"Currently I am prohibited from extending and overridding various methods (in my case those concerning Navigation).",X
+4110,"In case app is installed in SD card and notification uses custom audio file default notification sound is played instead of custom audio file.",X
+4112,"As a long time WP7/8 and now W10M user I noticed inconsistent behavior of opening flyout with touch versus mouse.",X
+4113,"With mouse flyout opens on right click which is ok.",X
+4114,"But when using touch gesture I would expect behavior known from WP7/8 - flyout (aka context menu) should open after couple miliseconds while my finger is still touching the given item.",X
+4115,"Instead in W10M it opens just when I release the finger.",X
+4116,"This is very annoying as I never know if there is some additional menu under the item or not.",X
+4117,"In the end developers have to use some workarounds to simulate old behavior.",X
+4118,"You can see that even Apps list in W10M simulates old behavior instead of default one.",X
+4119,"Context menu appears while my finger is still touching the screen.",X
+4129,"It is working correct with .mp3 and other codecs but not with FLAC.",X
+4131,"This would allow apps to say they were listening to KEXP instead only 93.1 and the station information as well.",X
+4133,"When using FM radio i have my headphones plugged in.",X
+4136,"With Silverlight in Windows Phone i had the ability to use FM radio APIs.",X
+4137,"In UWP I cannot use these APIs as they weren't brought over.",X
+4140,"This would make replying to messages etc.",X
+4142,"Our desktop application provides users with custom contact data that we'd like to sync for them with Windows 10 contacts.",X
+4143,"We are working on the Converted version of the app to enable such capabilities and to distribute our desktop app via the Windows Store but we have to distribute it for previous versions of Windows as well and so we can't afford having two completely different versions of the product for the time being.",X
+4145,"Why do you always have to make a developer's life difficult.",X
+4146,"There's no easy way to detect Left Control key pushes.",X
+4147,"Because on international keyboards if Right Alt is pressed then Left Control is also pressed?",X
+4148,"Why oh why this is the stupidest thing ever.",X
+4150,"So I've developed a work around to detect key pushes for LeftCtrl and RightAlt and if both are pressed at the same time then LeftCtrl pushes are ignored.",X
+4152,"But that doesn't work too because now it turns out that if I press just RightAlt then I can get callbacks for LeftCtrl and RightAlt happening in different frames.",X
+4153,"OnKeyDown with LeftCtrl gets called in frame 10",X
+4154,"OnKeyDown with RightAlt gets called in frame 11",X
+4166,"I want my user to stay inside my app.",X
+4169,"I know it's not possible at the moment specially with all the hardware limitations but if you guys really are working on a surface phone bringing visual studio to it will be so huge.",X
+4172,"I'm using the result of MidiOutPort::GetDeviceSelector() for the device selector string.",X
+4173,"The DeviceInformation for some of the virtual software ports on the system are returning with generic device names.",X
+4174,"A user of yMidi contacted me about this problem.",X
+4177,"The problem is the output port names are enumerated by the UWP API as just MIDI and not the name of the port as defined when they were setup.",X
+4178,"Reaper and other desktop programs are displaying the proper name.",X
+4179,"Have you seen this behavior before?",X
+4190,"We just switched to Win10 SDK 10.0.14393.0 and are now getting some new warnings in .cpp files with #include <Windows.h>",X
+4191,"Warning 4668 is an extra one we have enabled beyond warning level 4.",X
+4192,"Including <windows.h> shouldn't generate compile warnings even the extra ones.",X
+4201,"Currently any UWP developer is forced to use C++ for accessing DirectX features or rely on third party support like SharpDX or Unity3D for those features.",X
+4204,"Currently a control will not be able to handle the request if the event has already been subscribed to in order to handle navigation.",X
+4205,"Example: In the UWP Community Toolkit the MasterDetailsView control needs to listen to the back requested event to handle navigating back when in a collapsed state with selection.",X
+4207,"This gave the MasterDetailsView the time it needed to subscribe to the event first in order to handle it.",X
+4208,"In other projects/frameworks like Template 10 this is not as easily handled because those frameworks have a navigation service that subscribes to the BackRequested event first.",X
+4215,"I can see the tasks but I can't terminate them",X
+4218,"I know you have tweaked alarm volume in Insider builds but you simply cannot cover all user need if you don't provide them the slider.",X
+4219,"Many users still complains about given volume even fade in doesn't save the situation.",X
+4222,"That would make all the users happy :)",X
+4224,"Hololens let's you render on 2 backbuffers(stereoscopic) but it's hard to know if the output is correct because the emulator shows just one frame.",X
+4225,"I assume it's the image for either the left or right eye.",X
+4226,"When hololens is in stereo mode show both frames on the emulator.",X
+4228,"there is a bug in UWP where special characters are interpreted as letters when using multi layered keyboard layout like the german Neo2 layout.",X
+4229,"Apparently the UIElement.KeyUp and UIElement.KeyDown events provide the wrong VirtualKey information in the KeyRoutedEventArgs.",X
+4230,"The problem is when using a physical keyboard and also when using the On-Screen-Keyboard.",X
+4232,"It's also a total annoyance when working with data that require handling of lots of special charecters like JSON and XML data.",X
+4242,"We're limited at work since we can't use our mobile devices the way we want...",X
+4249,"Looking forward to the progress you're doing :D",X
+4250,"With Project Rome I can discover devices of others connect with them and launch apps or leverage app services once consent has been established.",X
+4256,"This feature is implemented in the accessory API which is restricted to only smart watch makers.",X
+4258,"Right now it's not possible to add screenshots for AddOns in Windows Store.",X
+4259,"This is especially limiting when browsing DLCs for games without any screenshots.",X
+4261,"This would allow them to know that additional awesome features are there.",X
+4262,"For example the minimum requirements: Operating system: Windows 8 or later required",X
+4265,"The Windows display language of my computer is set to en-US because I am an app developer and most app problems and solutions are written in English.",X
+4266,"However I am developing a Chinese (zh-TW) app using MapControl on my computer.",X
+4267,"Unfortunately we can't set the MapControl language by programming to a specific value.",X
+4268,"MapControl always uses the Windows display language.",X
+4269,"It is inconvenient for me to debug a Chinese app with MapControl while my favorite Windows display languages is en-US.",X
+4271,"Such functionality is common to music apps in Google Play Store Apple Store BlackBerry World.",X
+4272,"In most cases such apps can be ported to UWP platform and because they are coming from a POSIX/Linux the network API is 'BSD sockets' as well as some complex network communication libraries can be used to support this or that network-oriented functionality.",X
+4273,"Currently the network data flow is boroken once app goes into background or screen is switched off.",X
+4275,"Music app can provide to its users an extended network functionality such as audio streaming UPnP/DLNA or SMB/CIFS or FTP client to get music files from server UPnP/DLNA client to send audio data to renderer UPnP/DLNA media server or renderer.",X
+4283,"My app contains in-app purchases but customers can not buy these in-app purchases in the Windows Store for Business.",X
+4286,"But that has a very big impact on maintenance because we would have to support 2 apps.",X
+4287,"Can in-app purchases made available to Windows Store for Business?",X
+4289,"Obviously the free SDK is a good start.",X
+4291,"The current Windows Audio driver design only allows you to use 24 channels simulatenously.",X
+4292,"There are many devices (like a USB-Madi or Dante Virtual Soundcard) which use at least 64 channels.",X
+4293,"These channels are not accessible with the current AudioGraph API's.",X
+4294,"This is a real problem.",X
+4297,"I really hope this will change in the near future because for Pro Audio applications something really has to change.",X
+4315,"The language Swift was created by Apple for use on iOS and macOS.",X
+4316,"It was made open source in 2015.",X
+4317,"It has support for Linux and I think Windows should gain support too.",X
+4319,"Desktop App Converter] constantly fails with the E_CREATING_ISOLATED_ENV_FAILED error.",X
+4320,"The inner exception that has sense is the System.IO.DirectoryNotFoundException.",X
+4322,"System.IO.DirectoryNotFoundException: The system cannot find the path specified.",X
+4324,"Most probably the problem is in these two lines:",X
+4325,"Setting up Conversion Environment",X
+4326,"I looked through the GUID-named folder and found no SHARED folder inside.",X
+4327,"So no contents of MyApp and no KnownFolderDump.exe.",X
+4328,"The dac folder exists but under output not under shared.",X
+4329,"And the dac folder is empty.",X
+4330,"The question is how to fix that?",X
+4331,"The problem occurs on every conversion.",X
+4332,"PS: I cannot try to create the folders in advance because each time the converter generates and uses a new GUID.",X
+4333,"I tried three different installers (InnoSetup a plain self-extracting archive produced by 7zip and VLC Media Player from the video tutorial by Avneet Singh and David Tepper).",X
+4334,"I'm on Windows 10 Pro x64 Version 1607 (build 14393.321).",X
+4336,"Thank you for any advice!",X
+4353,"Hello Dev Team!",X
+4356,"Wifi and bluetooth work well but the mobileBroadband is in This value is defined for future use and is not currently available.",X
+4358,"Thank you",X
+4359,"Hello All",X
+4363,"This would mimic the Android capability that already exists for its Navigation drawer.",X
+4364,"I have actually implemented this in one of my apps so you can see it in action.",X
+4366,"In the app Settings you can disabled the swipe-open or make the swipe-in detection area wider if the user's phone makes getting close to the screen edge difficult.",X
+4367,"Based on feedback I have received the capability is very important because it allows the use and opening of hamburger menus on phones using one hand.",X
+4368,"I was previously getting a lot of grief over the switch to a hamburger menu by phone users but this gives them back the ability to navigate with one hand on the phone.",X
+4376,"However there seems to be no such accommodation for style definitions located either in ResourceDictionary files or embedded directly into the page XAML.",X
+4377,"If you have a style that uses a new property or enumeration value anyone opening the app in an older Win 10 build will immediately crash.",X
+4379,"In code there is a way to detect and work with features that are in newer Windows 10 builds (using ApiInformation) so that code can use new features while gracefully degrading on older builds.",X
+4382,"So there should be a way to either swap out style XAML RsourceDictionary files and/or pieces of… more",X
+4383,"It's a lot easier to build a following when it's free.",X
+4384,"Keeping this in mind was thinking of making some of my products donationware.",X
+4386,"The ability for an end user to donate allows me to make the app free.",X
+4388,"Any feedback is appreciated Thanks John.",X
+4390,"Support for developers willing to get the apps converted and placed in the Windows store is below anecdotal.",X
+4392,"Like thousands of other developers I have tried for now over a month to convert my app and followed every literatureput up by Microsoft but am still stuck with dependencies.",X
+4393,"Tried to post in UWP apps but questions remain unanswered.",X
+4402,"XAML apps can detect it but there is no equivalent WinRT API for JS apps.",X
+4403,"I was working with WebView to display static HTML and I found an issue.",X
+4404,"My HTML perfectly fine in Windows 10 but not in Windows 10 Mobile.",X
+4406,"You can check using below example",X
+4411,"The WNS currently does not seem to support loc-key loc-args APNS equivalents.",X
+4414,"This causes us to treat the windows platform as a special case while APNS / GCM provide a single cohesive story.",X
+4415,"This gets even more painful when we work with client-application teams that want to customize the localized strings for their platform for a loc-key loc-args contract.",X
+4427,"By the way that will be a lot simpler than the WPF's TypeConverter.",X
+4428,"As an information this is the xaml control that contain the complex attribute/property :",X
+4437,"After having tried TypeConverter on UWP I tried to add implicit operators (casts) to the complex type (Position here) from and to string but xaml does not take them into account.",X
+4439,"All my tests and researches made be waste two days for nothing.",X
+4442,"In my opinion this feature is really fundamental much more important to me than many new features that appears regularly.",X
+4444,"Tested with VS 2015 under Windows 10.",X
+4451,"where the complex property is Begin and the complex value is 12 that represents a position {X=1 ; Y=2}.",X
+4456,"According to the documentation the proper way to handle input in a store app is to create a CoreIndependentInputSource from another thread by calling swapChainPanel.CreateCoreIndependentInputSource().",X
+4458,"Once you create a CoreIndependentInputSource touch visual feedback is visible again.",X
+4463,"It's not about aesthetics Visualfeedback kills performance the framerate in games drops by half which is ironic if you think that's the kind of apps CoreIndependentInputSource was created for in the first place.",X
+4464,"Devices with touch input are the ones that suffer the most from this bug since they come with weak GPUs.",X
+4465,"Devs have to chose either low responsiveness or low performance.",X
+4466,"CoreIndependentInputSource has it's own Dispatcher does that mean it has it's own HWND/message queue?",X
+4467,"Maybe that's the cause of the bug PointerVisualizationSettings.GetForCurrentView() is tied to the main Window.",X
+4470,"The visual feedback was disabled!",X
+4471,"However live code has no access to that hWnd.",X
+4482,"WACK will be an error by some applications.",X
+4483,"Wack show An error occurred while generating the report.",X
+4484,"The application will exit..",X
+4485,"Of couse another app have success of wack.",X
+4486,"I have a question related WACK.",X
+4487,"When this issue specified test features.",X
+4489,"then can't show apps list so I selected an appx package.",X
+4490,"To choose what test features is it right?",X
+4493,"I need to select multiple files to be downloaded/uploaded one time",X
+4495,"I also want to create folders to store things in.",X
+4496,"Seriously while we see a LOT of improvement of ASP.Net/Razor languages and even the C# language reducing a LOT of verbosity in each version with a lot of awesome new features XAML got what in the last years?",X
+4498,"Seriously to be honest we LOSE a lot of features with transition of WPF -> UWP... DockPanels Adorners etc...",X
+4501,"Having an API allowing getting the color of the pixels under a pointer (eventually throttled/async and only when having pointer capture on) would increase the expressiveness of the creation tools in UWP applications.",X
+4503,"In Windows Store the longer app's titles or capitalized app's titles for example COBATA (X)HTML Constructor are cut to 14-15 characters doing the app's title meaningless for example COBATA (X)HTML.",X
+4504,"It is because the responsible HTML element c-heading class font-size style property is fixed to 15px.",X
+4517,"When there is a bulk update requirement as with the age ratings (and soon to be with the Ad support changes) the store is poorly equipped to server those of us that are managing large portfolios and millions of users.",X
+4519,"Right now I have to manage this myself.",X
+4521,"I have lots of apps that are just now showing that they have passed certification days after simply doing the Age Rating update.",X
+4522,"I am manually having to keep a list of these when it would be easily managed in the Dashboard if the status properly reflected this.",X
+4526,"The current status only seems to show ‘In Progress’ if the app has never been put in the store before.",X
+4528,"Right now RichEditBox only supports input and output in RTF format.",X
+4531,"As such it plays a critical role as the first system to process each incoming HTTP request but it is unfortunately lacking in diagnostics.",X
+4532,"There are a number of failure cases such as a high incoming request rate filling the request queue that can result in the module rejecting incoming requests directly without handing them off to callers higher on the stack.",X
+4533,"This leaves the application unaware that it it experiencing such problems.",X
+4534,"Information about these failed requests is currently only visible via the HTTPERR log file and a few Perf counters.",X
+4535,"Neither is ideal.",X
+4536,"The log file is system-wide requires admin access and lacks any information about what request queue the error is associated with.",X
+4537,"Meanwhile the perf counters are difficult to associate with a specific application requiring the request queue be named (which HttpListener does not do) and netsh called to find URL group IDs to use for correlation.",X
+4540,"HTTP.sys serves as the kernel component backing IIS and the .NET HttpListener.",X
+4545,"I did a research on AudioFrameOutputNode It is strange that it often generate AudioFrame without any audio data the AudioFrame's Duration property is 0 miliseconds but the RelativeTime property is not.",X
+4546,"And the RelativeTime it seems not correct sometimes the Duration is larger than RelativeTime.",X
+4547,"Sometimes the previous frame's RelativeTime is 00:00:01.500 but the next frame's RelativeTime is 00:00:01.300.",X
+4550,"Also the AudioGraph can't to be ensure generate 10ms of AudioFrame data even though I have set the QuantumSizeSelectionMode property to ClosestToDesired.",X
+4551,"This is bad for signal analysis scenario.",X
+4553,"For example a user send us a feedback to ask a Windows 8.1 RT version of our app but now we are focused on Windows 10 so we need to be clear that we read his feedback but it's not on our roadmap.",X
+4554,"When submitting (fixing the Age Ratings) Age Ratings the dev center will not let me submit more than 4 or 5 in a row.",X
+4555,"After that the Age Rating questionnaires stop submitting when you press submit.",X
+4556,"When initiating a chat session the page asks you to let the operator know what the issue is and provides a virtually limitless text field.",X
+4557,"There is no indication that the text field will only transmit the first 38 characters to the support technician but that apparently is the limit.",X
+4558,"This leads the user to have to type AGAIN the whole description.",X
+4559,"This ends up further frustrating an already distressed developer and making the job that much harder for the support operator needlessly.",X
+4566,"The name reservation field doesn't accept spaces.",X
+4572,"An example of this An application as a node in an internal media network would be something along the lines of AudioBus for iOS.",X
+4574,"loopMIDI is also an example of this in the MIDI realm allowing on-the-fly creation/destruction/renaming of virtual MIDI ports although lacking the routing/filtering layer which MIDI-OX's (primitive GUI) routing+filtering is a good example of.",X
+4575,"Extrapolate the above capabilities to Audio allowing on-the-fly add/remove interconnectable/reroutable audio nodes (virtual interface devices) to which Apps/Devices would attach to instead of attaching only to hardware interfaces.",X
+4576,"Some of the above is already possible today (there's some Virtual-Audio-Cable solutions) but it's cumbersome non-standard and definetely not done (optimized?)",X
+4578,"Same for video not only making (desktop/window) screen capture a breeze and naturally handle by the OS it would also allow the creation of virtual screens (resource permitting of course for desktop expansion/mirroring) outputting them to a video input/recording apps USB3 or even to a DLNA receiver screens.",X
+4579,"All the above is also somewhat possible today but there's no OS based unified paradigm easily controllable by the user.",X
+4582,"This would allow the user through the OS to detach an App media output from its default interface (audio/midi card screen/window) and re-attach it to another App (or device) input.",X
+4584,"There has been a huge spike in spammers scraping the Windows Store website for apps' support email.",X
+4585,"The automated script leaves a 5 star review and asks that you do the same for their app.",X
+4587,"What if we will exchange apps reviews?",X
+4589,"I want to thank Lancelot for taking the time to communicate quickly with me.",X
+4590,"I like the ease of the app and recommend this app to all.",X
+4593,"I have largely ignored this is the past because it was minimal but someone is finding good success with it so they're hammering everyone.",X
+4594,"Personally I'm getting 2-3 a day from different source email addresses.",X
+4595,"Removing the support email from the webpage would not hinder the user as they can see it via the Windows Store app.",X
+4605,"1) A user is at lunch viewing their sensitive documents.",X
+4606,"They switch to their Email app - our application detects active state change and auto logs out.",X
+4607,"They finish their food and leave but forget their phone on the table.",X
+4608,"*At this point a perpetrator is able to take the phone open the recent apps section and now can see whatever our client was looking at.",X
+4609,"2) User is at their desktop observing files gets up and makes the app inactive (minimizes or moves to back).",X
+4610,"We begin a timer to auto log out.",X
+4611,"* A perpetrator is able to hover over the taskbar item and see the last screen drawn whether or not the user logged out.",X
+4620,"Sorry if I sound bitter but I must say it's very frustrating developing for w10 mobile at the moment even if the you get good reviews the chance of them being displayed in the store is very slim due to the version fragmentation.",X
+4621,"As I understand it insider reviews that aren't on the slow ring are removed even worse they're deleted permanently from even the Developer Dashboard.",X
+4622,"People took time to write thoughtful reviews and they're simply deleted.",X
+4623,"I've started to continually download review reports to just have a record of them",X
+4624,"I've had over fifty 4+ star reviews simply disappear never to be seen again.",X
+4625,"I see the point that insiders shouldn't bring down the ratings of the app if the OS is to blame.... but with so few people rating anyway and most people being on the fast insider ring it makes it extremely hard to get reviews.",X
+4626,"Old Windows Phone 8.1 retain their status of being the most highly rated just because of this.",X
+4627,"What's the point of having a rule if that means there's too few reviews and no point for most people to post reviews at all?",X
+4628,"I'm not quite sure what a good solution is you cold allow only 3+ reviews for fast insiders but I guess that might skew reviews too positively.",X
+4629,"Or why not let the text review stand even if the rating doesn't count?",X
+4631,"As it is getting an accurately impressions of apps through reviews doesn't seem feasible.",X
+4646,"The documentation indicates that it should be possible to provide an EnvironmentPermission for this to work but out of the box running this code in a UWP project never throws any of the listed exceptions if you don't specify the EnvironmentPermission.",X
+4651,"The caller does not have the required permission to perform this operation.",X
+4668,"IoT introduced the Windows.System.ProcessLauncher for starting arbitrary programs (like Process.Start in .NET).",X
+4674,"Note when executed DNS Client service crashes",X
+4676,"Comment out the TextAttributes line and note service does not crash",X
+4679,"I have bound the IsPaneOpen of my SplitView to a property in my ViewModel.",X
+4680,"This works nicely except when the SplitView is in Overlay mode and the user presses a hardware back button on the phone.",X
+4681,"In this case the SplitViewPane gets closed as expected but it does that by seemingly overwriting the Binding on IsPaneOpen and instead setting it directly to the value false.",X
+4682,"The effect is that the panel can never be opened again as my code will do this by setting the VM property to true but the binding was already lost.",X
+4685,"In practical terms you are forced to make a UI technology diversion to implement new functionality.",X
+4686,"Xaml doesn't look a tempting option because not useful for mobile or web and needed controls usually implemented in javascript first",X
+4687,"At a application architectural level porting WinForms to HTML/JS favours an entirely new application which follows an understood/accepted architectural pattern then re-implement old functionality.",X
+4689,"So imagine the app in question was one written by an ex-employee in 2008 in VB.Net with deep domain-knowledge targeting users with similar domain knowledge for a specialist task with no design documentation beyond a description of a manual process it replaced.",X
+4690,"Well this is the norm... and for all it's wrong's its there.",X
+4691,"Never had budget assigned in the first place and it's used by 10 people who are all busy.",X
+4693,"Given the architectural barrier is the killler I don't believe there is any feature of GDI+ which cannot be expressed in HTML.",X
+4694,"the UI may not adhere to good gui design principals it's performance may suck but it probably won't.",X
+4695,"But it's users can start it and it will look and act the same as it did before arcane controls and all.",X
+4696,"The architecture of a Modern HTML5 appliication has much more in common with GDI+ and a windows message loop than it does with Xaml.",X
+4697,"Things like Redux essentially go out of their way to be like a message loop to avoid race conditions through async operations.",X
+4698,"For Microsoft this would I believe solve a massive developer stumbling block even allowing Winforms controls to potentially be integrated in HTML UI's.",X
+4705,"So imagine the app in question was one written by an… more",X
+4706,"Microsoft finally developed a library able to handle NFC devices.",X
+4707,"Unfortunately the library is only able to get the NDEF messages and doesn't give the UID of the card!",X
+4708,"Is there a reason why this UID is not saved in the Proximity-Device once the NFC card is read?",X
+4711,"But it has no similar property on UWP's api.",X
+4713,"You reproduce this on Mobile Build 14393 system.",X
+4714,"Currently there is no way to attach debugger to already running process via 'Attach to process' on mobile.",X
+4715,"And sometimes bad bugs like deadlocks happens.",X
+4716,"And its real pain to investigate them since usually they happen without debugger and on release builds.",X
+4717,"Windows 10 Mobile is like back box you can't get full access to.",X
+4722,"Frankly speaking I'm surprised that it was not there from the very beginning.",X
+4743,"All that happens without any real user attendance which makes those triggers useless.",X
+4744,"In WM5/6 there was an UNATTENDED power state for that situation and there was a way to detect real user interaction with the device.",X
+4746,"Current behavior of SystemTrigger.UserAway and UserPresent is unexpected.",X
+4748,"Phone is sleeping with screen turned off",X
+4750,"Some event occurs (SMS Incoming Call Toast)",X
+4754,"UserNotificationChangedTrigger fired",X
+4756,"UserPresent trigger fired",X
+4758,"After some short timeout screen goes off",X
+4764,"This is my personal favourite: mobile - file open picker - the app suspends but it cannot be debugged.",X
+4765,"All sorts of surprises can happen with a complex app.",X
+4766,"Before UWP CurrentCulture reflected the Regional Settings format and CurrentUICulture reflected the Display Language.",X
+4769,"We shouln't have to relly on workaround like this one: https://www.pedrolamas.com/2015/11/02/cultureinfo-changes-in-uwp/",X
+4772,"It would be a lot like Facebook Messenger's chat heads.",X
+4775,"So many things could be done with it.",X
+4776,"I found that PhoneTriggerType enum includes useful triggers except the trigger when a call is received.",X
+4786,"Torch API doesn't work in Lumia with windows phone 8.1 support such as Lumia 830640...",X
+4788,"Currently UWP have less readable grayscale font smoothing.",X
+4789,"It makes UWP apps look worse than desktop apps on standard DPI screens.",X
+4791,"Sometimes Compass.GetDefault() returns null and compass stop working in all apps.",X
+4792,"To solve I need to restart the phone.",X
+4794,"In the following MSDN Magazine Article it is mentioned that there are some limits for Voice Command Deffiniton files.",X
+4797,"Keep in mind the limits: 100 Command elements in a command set; 10 ListenFor entries in a command; 50 total PhraseList elements; and 2000 total PhraseList items across all PhraseLists.",X
+4799,"I use Windows SAPI quite intensively for an application I have built and many Grammars are easily much bigger than the limits imposed by Cortana.",X
+4800,"This makes it a bit tricky to port the recognition engine part of the application away from SAPI and towards Cortana since SAPI provides more powerful capabilities for larger sets of commands.",X
+4810,"Unfortunately I am not going to know all uri's the cookies are in without tracking every single domain visited (which is what I currently have to do).",X
+4811,"I do this so I can clear all Cookies.",X
+4812,"An API that would take 5 minutes for someone to write up and save me a lot of coding is",X
+4814,"Or secondary to that a DeleteAllCookies() or ClearCookies() API as that is the only reason I need to get all of them and I can't think of any other use cases to retrieve all cookies.",X
+4815,"Happy to go either way.",X
+4825,"User interaction depends on it.",X
+4826,"Searched up and down to get this done in Windows 10 no success.",X
+4827,"Similar has been accomplished in pre.",X
+4828,"used Win CE where MS granted more access to source code.",X
+4832,"PedestrianFeaturesVisible can be toggle only if MapStyle is set on Road.",X
+4834,"Currently when using a ControlChannelTrigger with HttpClient you cannot send a HTTPS request without the application getting terminated by the system.",X
+4836,"I tested using HTTPS and to my surprise it does work with the debugger attached no exceptions get thrown so it is implemented.",X
+4837,"However termination occurs when the application is NOT connected to the debugger.",X
+4840,"AudioGraph created with custom DesiredSamplesPerQuantum ignores it and uses default 10ms quantum.",X
+4843,"Depending on hardware you may hear gaps right after start or you may need load CPU with some additional work like scrolling UI or running some work in background threads.",X
+4844,"I guess it is result of extremely short quantum size (10ms; even switching between threads could take more time) and too low buffer length (2 quants) but it could be just some synchronization issue.",X
+4846,"slider renders to extreme right (value 100) instead of zero",X
+4847,"I have an app where I use a custom title bar by extending my view into the title bar area:",X
+4849,"Then I also use code like this to allow a custom element to support dragging of the window:",X
+4851,"This all was implemented pre-Anniversary Update.",X
+4852,"While all this works fine a bug was introduced in the Anniversary Update where the title bar returns zero for Height SystemOverlayRightInset and SystemOverlayLeftInset now.",X
+4854,"I confirmed that in pre-Anniversary Update these properties would return values like 32 for Height and 188 for SystemOverlayRightInset.",X
+4873,"The use of the file type filter makes no sense when you are picking a folder and it's not menioned in the documentation",X
+4875,"Suppose we have an app with two modes like Zune - normal and mini.",X
+4876,"In the mini mode the app only presents the indispensable and small elements on the window.",X
+4879,"I know maybe it's not at the Microsoft's priority list but I believe we can somehow make it available.",X
+4882,"But that would be nice.",X
+4883,"We do like to build universal Windows apps.",X
+4893,"At the moment it is possible to install to the application install directory but the files there cannot be altered by the application.",X
+4894,"If the application copies the files to the application data folder after installation as done in my work around it cannot delete the original files in the installation folder by this having two versions.",X
+4896,"After the anniversary update the store shows default the ratings of Current version.",X
+4897,"This is very annoying for developers of good and populair apps.",X
+4898,"A potential user viewing in the store will most likely make his judgement to download based on the number of reviews and quality of reviews (especially since the windows store does not show the total number of downloads).",X
+4900,"So for app publishers this will be a reason to keep app updates to an absolute minimum in order to get as many ratings as possible.",X
+4902,"Or at least Last 30 days.",X
+4911,"I want to know it to make custom title bar that looks exactly as defult one except with my controls.",X
+4912,"I'm able to get SystemAccentBrush but I can't get actual window title bar's color becouse it depends on this Show accent color setting.",X
+4913,"I've already asked the forum (where you can find the detailed description on the issue)",X
+4917,"If often mis-classify the direction.",X
+4918,"p.s I didn't know where to post this but since the library is in Windows.Media.Ocr namespace i put it under media",X
+4919,"Using Resources in a DataTemplate worked just fine before.",X
+4920,"Now that I've upgraded to Anniversary and installed the newest SDK and Tools + the newest Visual Studio Update it doesn't work as expected at all.",X
+4930,"This will crash on instantiation because somehow the ViewModel object is null when the Bindings are updated which was definitely not the case in previous versions and surely not the expected behavior.",X
+4931,"If I replace the x:Bind with a Binding it will run but if using the datatemplate for multiple objects for example in a GridView the resource will have the same value for all instances which makes it really pointless.",X
+4946,"Some apps have such poor startup perf that ngen is must.",X
+4948,"Or since this is a store app will the standard background ngen work for WPF apps?",X
+4949,"I do not like the recent change in the Dev Center.",X
+4950,"First of all it shows cumulative acquisitions rather than for a specified amount of time making it hard to compare which apps people like more (if an app has been available longer of course the cumulative acquisitions will be higher!).",X
+4951,"Also being able to see only some of the apps at the same time is very frustrating.",X
+4954,"Currently it is part of a sample.",X
+4958,"As simple as ClickOnce publishing.",X
+4959,"I do not want to convert MSIs",X
+4972,"Right now the new DevCenter offers the ability to sort by apps by Included Markets Base-price and Last modified.",X
+4975,"I can see it when I go to definition on SerialDevice.",X
+4977,"In order to break my code's dependency on actual hardware so I could automate my tests I had to reinvent the wheel.",X
+4978,"By keeping this interface internal I was forced to re-create the interface (mostly) and create a wrapper around SerialDevice that implemented it.",X
+4979,"That's a lot of code to write when the interface already exists.",X
+4981,"After my application open office document programmatically in background link to it appears in Quick Access Area in File Explorer.",X
+4982,"It's not good thing because it's not needed to share this with users.",X
+4993,"Enabling a custom provider in the Realtime ETW tracing page of Windows Device Portal shows no details other than the timestamp for each event.",X
+4994,"I've been using PerfView and that works great and shows the event details (payload keywords level etc.",X
+4996,"I was just hoping to use the portal for realtime monitoring but it doesn't appear to be working correctly.",X
+9785,"You have to reconsider your rules and to include more countries I have no idea why Lebanese ppl are not allowed to sell apps or any other banned country.",X
+9849,"Please make an option to mark messages for windows phone 7.8",X
+9886,"I understand this was not necessarily the designed use case but consider that the search button takes you back to the main Bing search page no matter what part of the Bing app you are in... the hardware buttons need to work consistently for the sake of the end user even in use-cases you didn't originally intend.",X
+10067,"Allow to developers create a custom keyboard.",X
+10080,"What I am asking for is some key that will act like the Screenshot->Capture command without me having to change tabs in the Emulator window or release the Accelerometer.",X
+10140,"Provide the access to pictures in PhotoChooser and Camera Roll in emulator",X
+10201,"It would be really helpful if for example a developer makes an app that takes advantage of the schedule alarm API and would like to enable the user to select a custom ringtone for that alarm.",X
+10414,"If immediate approval is not possible then apps that have been published should be immediately available.",X
