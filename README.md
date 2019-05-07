@@ -22,6 +22,20 @@ Prediction file should be named as 'submission.csv', zipped and named as submiss
 
 Python 2.7 is required to run the evaluation_script.py
 
+## Citing Semeval 2019 - Task 9
+
+Please cite the following paper when using our resources: 
+
+```
+@inproceedings {negi2019semeval,
+  author={Negi, Sapna and Daudert, Tobias and Buitelaar, Paul},
+  booktitle={Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval-2019)},
+  title={SemEval-2019 Task 9: Suggestion Mining from Online Reviews and Forums},
+  pages={783--883},
+  year={2019}
+}
+```
+
 ### License
 
 All resources provided in this repository are licensed under the Creative Commons Attribution-Non-Commercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license [1].
